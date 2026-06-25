@@ -1,0 +1,690 @@
+morgen | tomorrow | | adverb | Ab morgen muss ich arbeiten.
+aber | but | | conjunction | Ich bin oft im Büro, aber nur für wenige Stunden.
+abfahren | to depart / to leave | | verb | Wir fahren um zwölf Uhr ab.
+Abfahrt | departure | die | noun | Vor der Abfahrt rufe ich an.
+abgeben | to hand in / to turn in | | verb | Ich muss meine Schlüssel abgeben.
+abholen | to pick up / to collect | | verb | Wann kann ich den Schrank bei dir abholen?
+Absender | sender | der | noun | Da ist ein Brief für dich ohne Absender.
+Achtung | attention / danger | die | noun | Achtung! Das dürfen Sie nicht tun.
+Adresse | address | die | noun | Können Sie mir seine Adresse sagen?
+alles | everything | | pronoun | Das ist alles.
+alle | all / everyone | | pronoun | Sind alle da?
+allein | alone | | adjective | Er kommt allein.
+also | so / therefore | | adverb | Also, es ist so: ...
+alt | old | | adjective | Wie alt sind Sie?
+Alter | age | das | noun | Alter: 26 Jahre.
+an | at / on / to | | preposition | Wir treffen uns am Bahnhof.
+anbieten | to offer | | verb | Was darf ich dir anbieten?
+Angebot | offer / special deal | das | noun | Heute sind Sportschuhe im Angebot.
+andere | other | | pronoun | Nein, ich möchte die andere.
+anfangen | to start / to begin | | verb | Der Unterricht fängt gleich an.
+Anfang | beginning | der | noun | Sie wohnt am Anfang der Straße.
+anklicken | to click on | | verb | Da musst du dieses Wort anklicken.
+ankommen | to arrive | | verb | Wann kommt dieser Zug in Hamburg an?
+Ankunft | arrival | die | noun | Auf diesem Plan steht nur die Ankunft der Züge.
+ankreuzen | to cross / to tick | | verb | Auf dem Formular müssen Sie an mehreren Stellen etwas ankreuzen.
+anmachen | to turn on / to switch on | | verb | Mach bitte das Licht an!
+anmelden | to register / to sign up | | verb | Wo kann ich mich anmelden?
+Anmeldung | registration | die | noun | Eine Anmeldung für diesen Kurs ist nicht mehr möglich.
+Anrede | salutation / form of address | die | noun | Schreiben Sie auch eine Anrede und einen Gruß.
+anrufen | to call / to phone | | verb | Kann man Sie anrufen?
+Anruf | phone call | der | noun | Sie bekommt viele Anrufe auf ihrem Handy.
+Anrufbeantworter | answering machine | der | noun | Sprechen Sie bitte auf den Anrufbeantworter.
+Ansage | announcement | die | noun | Hören Sie die Ansagen.
+Anschluss | connection | der | noun | In Mannheim haben Sie Anschluss nach Saarbrücken.
+an sein | to be on | | verb | Heute Nacht war das Licht an.
+antworten | to answer | | verb | Er antwortet nicht.
+Antwort | answer | die | noun | Er gibt leider keine Antwort.
+Anzeige | advertisement / notice | die | noun | Ich habe Ihre Anzeige in der Zeitung gelesen.
+anziehen | to get dressed | | verb | Ich muss mich noch anziehen.
+Apartment | apartment | das | noun | Wir haben ein Apartment gemietet.
+Apfel | apple | der | noun | Ein Pfund Äpfel bitte.
+Appetit | appetite | der | noun | Guten Appetit!
+arbeiten | to work | | verb | Wo arbeiten Sie?
+Arbeit | work / job | die | noun | Mein Bruder sucht Arbeit.
+arbeitslos | unemployed | | adjective | Es gibt bei uns viele Leute, die schon lange arbeitslos sind.
+Arbeitsplatz | workplace / job | der | noun | An meinem Arbeitsplatz fehlt ein Drucker.
+Arm | arm | der | noun | Mein Arm tut weh.
+Arzt | doctor | der | noun | Morgen habe ich einen Termin bei meiner Ärztin.
+auch | also / too | | adverb | Ich bin auch Spanier.
+auf | on / at / in | | preposition | Die Kinder spielen auf der Straße.
+Aufgabe | task / exercise | die | noun | Das ist eine schwere Aufgabe.
+aufhören | to stop / to end | | verb | Der Kurs hört in einer Woche auf.
+auf sein | to be open | | verb | Du brauchst den Schlüssel nicht. Die Wohnung ist auf.
+aufstehen | to get up / to stand up | | verb | Ich muss immer um vier Uhr aufstehen.
+Aufzug | elevator / lift | der | noun | In diesem Haus gibt es keinen Aufzug.
+Auge | eye | das | noun | Er hat blaue Augen.
+aus | from / out of | | preposition | Er kommt aus Brasilien.
+Ausflug | excursion / trip | der | noun | Morgen machen wir einen Ausflug nach Heidelberg.
+ausfüllen | to fill out | | verb | Füllen Sie bitte dieses Formular aus.
+Ausgang | exit | der | noun | Wo ist der Ausgang?
+Auskunft | information | die | noun | Können Sie mir eine Auskunft geben?
+Ausland | foreign country | das | noun | Fahren Sie ins Ausland?
+Ausländer | foreigner | der | noun | Sind Sie Ausländerin?
+ausländisch | foreign | | adjective | Leider habe ich nur ausländisches Geld.
+ausmachen | to turn off / to switch off | | verb | Mach bitte das Licht aus!
+Aussage | statement | die | noun | Ist die Aussage richtig oder falsch?
+aussehen | to look like / to appear | | verb | Das sieht schön aus.
+aus sein | to be off / to be finished | | verb | Das Licht ist aus.
+aussteigen | to get off / to disembark | | verb | Wo muss ich aussteigen?
+Ausweis | ID card / identification | der | noun | Hier ist mein Ausweis.
+ausziehen | to undress / to take off clothes | | verb | Zieh die Schuhe aus, bitte!
+Auto | car | das | noun | Er kommt mit dem Auto.
+Autobahn | highway / motorway | die | noun | Wo geht‘s hier bitte zur Autobahn?
+Automat | vending machine / ticket machine | der | noun | Die Fahrkarten gibt es nur am Automaten.
+automatisch | automatic | | adjective | Das geht automatisch.
+Baby | baby | das | noun | Mein Kind ist noch ein Baby.
+Bäckerei | bakery | die | noun | Ich geh mal schnell zur Bäckerei.
+Bad | bathroom / bath | das | noun | Wir haben kein großes Bad.
+baden | to bathe / to swim | | verb | Ich bade nicht so gern, ich dusche lieber.
+Bahn | train / railway | die | noun | Wir fahren lieber mit der Bahn.
+Bahnhof | train station | der | noun | Komme ich hier zum Bahnhof?
+Bahnsteig | platform | der | noun | Auf welchem Bahnsteig fährt der Zug?
+bald | soon | | adverb | Ich komme bald.
+Balkon | balcony | der | noun | Die Wohnung hat auch einen kleinen Balkon.
+Banane | banana | die | noun | Drei Bananen, bitte!
+Bank | bank / bench | die | noun | Die Bank schließt schon um vier Uhr.
+bar | in cash | | adjective | Muss ich bar zahlen oder geht‘s auch mit Karte?
+Bauch | stomach / belly | der | noun | Seit gestern tut mir der Bauch weh.
+Baum | tree | der | noun | Vorsicht, fahr nicht an den Baum!
+Beamte | official / civil servant | der | noun | Fragen Sie die Beamtin an Schalter acht!
+bedeuten | to mean | | verb | Was bedeutet das Wort?
+beginnen | to begin / to start | | verb | Das Spiel beginnt um 15.30 Uhr.
+bei | at / near / with | | preposition | Ich wohne bei meinen Eltern.
+beide | both | | pronoun | Beide Eltern arbeiten.
+Bein | leg | das | noun | Mein rechtes Bein tut weh.
+Beispiel | example | das | noun | Kannst du mir ein Beispiel sagen?
+bekannt | well-known / famous | | adjective | Picasso ist sehr bekannt.
+Bekannte | acquaintance | der | noun | Ein Bekannter von mir heißt Klaus.
+bekommen | to get / to receive | | verb | Haben Sie meinen Brief bekommen?
+benutzen | to use | | verb | Die Aufzüge bitte nicht benutzen!
+Beruf | profession / occupation | der | noun | Was sind Sie von Beruf?
+besetzt | occupied / busy | | adjective | Die Nummer ist immer besetzt.
+besichtigen | to visit / to sightsee | | verb | Ich möchte gern den Dom besichtigen.
+besser | better | | adjective | Es geht mir schon besser.
+bestellen | to order | | verb | Wir möchten bestellen, bitte.
+besuchen | to visit | | verb | Darf ich dich besuchen?
+Bett | bed | das | noun | Wir brauchen noch ein Kinderbett.
+bezahlen | to pay | | verb | Wo muss ich bezahlen?
+Bier | beer | das | noun | Noch ein Bier bitte.
+Bild | picture / image | das | noun | Hast du ein Bild von deinem Sohn?
+billig | cheap / inexpensive | | adjective | Die Jacke kostet nur 10 Euro! Die ist aber billig!
+Birne | pear | die | noun | Ein Kilo Birnen, bitte!
+bis | until / to | | preposition | Ich fahre nur bis Stuttgart.
+bisschen | a little bit | | adverb | Ich spreche Englisch, Französisch und ein bisschen Deutsch.
+bitte | please | | adverb | Eine Tasse Kaffee, bitte!
+Bitte | request | die | noun | Ich habe noch eine Bitte.
+bitten | to ask / to request | | verb | Darf ich Sie um etwas bitten?
+bitter | bitter | | adjective | Der Kaffee schmeckt bitter.
+bleiben | to stay / to remain | | verb | Ich bleibe heute zu Hause.
+Bleistift | pencil | der | noun | Hast du einen Bleistift?
+Blick | view / glance | der | noun | Von diesem Hotel hat man einen guten Blick auf den Rhein.
+Blume | flower | die | noun | Gefallen dir die Blumen?
+Bogen | sheet / form | der | noun | Schreiben Sie Ihre Lösungen bitte auf den Antwortbogen.
+böse | angry / bad | | adjective | Sie ist böse auf mich.
+brauchen | to need | | verb | Brauchst du die Zeitung noch?
+breit | wide / broad | | adjective | Wie breit ist der Schrank?
+Brief | letter | der | noun | Haben Sie einen Brief für mich?
+Briefmarke | stamp | die | noun | Kaufst du bitte Briefmarken bei der Post.
+bringen | to bring / to take | | verb | Bringen Sie mir bitte noch einen Kaffee!
+Brot | bread | das | noun | Nimm noch ein paar Brote für die Fahrt mit.
+Brötchen | bread roll | das | noun | Möchtest du Brötchen zum Frühstück?
+Bruder | brother | der | noun | Sein Bruder arbeitet auch hier.
+Buch | book | das | noun | Gute Bücher sind oft sehr teuer.
+Buchstabe | letter (of alphabet) | der | noun | Diesen Buchstaben gibt es in meiner Sprache nicht.
+buchstabieren | to spell | | verb | Bitte buchstabieren Sie Ihren Namen.
+Bus | bus | der | noun | Wann kommt der nächste Bus?
+Butter | butter | die | noun | Für mich bitte ein Brötchen mit Butter und Käse.
+Café | cafe | das | noun | Sollen wir os im Café treffen?
+CD | CD | die | noun | Bring bitte deine Lieblings-CD mit.
+Chef | boss / manager | der | noun | Wir haben eine neue Chefin.
+circa | approximately | | adverb | Von Mainz nach Frankfurt sind es circa fünfzig Kilometer.
+Computer | computer | der | noun | Wann bekommst du deinen neuen Computer?
+da | there / then | | adverb | Da hinten ist er ja.
+Dame | lady | die | noun | Sehr geehrte Damen und Herren!
+daneben | next to it / besides | | adverb | Du kennst doch die Post. Daneben ist die Bank.
+danken | to thank | | verb | Ich danke Ihnen für die Einladung.
+Dank | thanks / gratitude | der | noun | Vielen Dank!
+danke | thank you / thanks | | adverb | Soll ich Ihnen helfen? - Nein, danke!
+dann | then | | adverb | Ich muss noch schnell zur Post, dann komme ich.
+Datum | date | das | noun | Bitte schreiben Sie noch das Datum auf das Formular.
+dauern | to last / to take time | | verb | Wie lange dauert der Film?
+dein | your | | pronoun | Ist das dein Auto?
+denn | because / for | | conjunction | Ich kann nicht kommen, denn ich bin krank.
+der | the | der | pronoun | Hier ist der Brief, den du suchst.
+die | the | die | pronoun | Die Fahrkarte bekommst du am Bahnhof.
+das | the | das | pronoun | Ich nehme das da.
+dich | you (accusative) | | pronoun | Die Blumen sind für dich.
+diese | this / these | | pronoun | Ich nehme lieber diesen Kuchen.
+dir | you (dative) | | pronoun | Gefallen dir die Blumen?
+Disco | disco / club | die | noun | Heute abend gehen wir in die Disco tanzen.
+Doktor | doctor | der | noun | Meine Tochter ist krank. Wir gehen zum Doktor.
+Doppelzimmer | double room | das | noun | Wollen Sie ein Doppelzimmer oder ein Einzelzimmer?
+Dorf | village | das | noun | Meine Familie lebt in einem Dorf.
+dort | there | | adverb | Dort ist unser Haus.
+draußen | outside / outdoors | | adverb | Wollen wir draußen sitzen?
+drucken | to print | | verb | Bitte drucke das Formular für mich.
+Drucker | printer | der | noun | Mein Drucker ist kaputt.
+drücken | to press / to push | | verb | Drück hier, dann geht der Computer an.
+durch | through | | preposition | Am besten gehen Sie durch die Breite Straße.
+Durchsage | announcement | die | noun | Ich habe die Durchsage nicht verstanden.
+dürfen | to be allowed to / may | | verb | Sie dürfen hier nicht rauchen.
+Durst | thirst | der | noun | Hast du etwas zu trinken? Ich habe großen Durst.
+duschen | to shower | | verb | Ich bade nicht so gern, ich dusche lieber.
+Dusche | shower | die | noun | Unsere Wohnung hat nur eine Dusche.
+Ecke | corner | die | noun | An der nächsten Ecke links.
+Ehefrau | wife | die | noun | Das ist meine Ehefrau.
+Ehemann | husband | der | noun | Das ist mein Ehemann.
+Ei | egg | das | noun | Möchtest du ein Ei zum Frühstück?
+eilig | hurried / urgent | | adjective | Hast du es eilig?
+ein | a / an / one | | pronoun | Ich nehme ein Bier.
+einfach | simple / easy / one-way | | adjective | Die Prüfung ist ganz einfach.
+Eingang | entrance | der | noun | Der Eingang ist um die Ecke.
+einkaufen | to shop / to buy groceries | | verb | Ich muss noch für morgen einkaufen.
+einladen | to invite | | verb | Darf ich Sie zu einem Kaffee einladen?
+Einladung | invitation | die | noun | Danke für die Einladung!
+einmal | once / again | | adverb | Diese Prüfung mache ich nicht noch einmal.
+einsteigen | to get in / to board | | verb | Schnell, steig ein, der Zug fährt gleich.
+Eintritt | entry / admission | der | noun | Der Preis für den Eintritt ist 5 Euro.
+Einzelzimmer | single room | das | noun | Haben Sie noch ein Einzelzimmer?
+Eltern | parents | | noun | Meine Eltern leben in Spanien.
+E-Mail | email | die | noun | Ich habe Ihre E-Mail nicht bekommen.
+Empfänger | recipient | der | noun | Auf dem Brief steht dein Name, also bist du der Empfänger.
+empfehlen | to recommend | | verb | Welchen Wein können Sie mir empfehlen?
+enden | to end | | verb | Die Straße endet hier.
+Ende | end | das | noun | Sie wohnt am Ende der Straße.
+entschuldigen | to excuse / to apologize | | verb | Entschuldigen Sie bitte!
+Entschuldigung | excuse / apology | die | noun | Entschuldigung! – Bitte.
+er | he | | pronoun | Er heißt Ali.
+Ergebnis | result | das | noun | Das Ergebnis des Tests bekommen Sie in zwei Wochen.
+erklären | to explain | | verb | Kannst du mir das erklären?
+erlauben | to allow / to permit | | verb | Rauchen ist hier nicht erlaubt.
+Erwachsene | adult | der | noun | Dieser Film ist nur für Erwachsene.
+erzählen | to tell / to narrate | | verb | Wir müssen euch etwas erzählen!
+es | it | | pronoun | Es regnet.
+essen | to eat | | verb | Was gibt es zu essen?
+Essen | food / meal | das | noun | Das Essen ist heute sehr gut.
+euer | your (plural) | | pronoun | Euer Kurs beginnt heute.
+fahren | to drive / to travel | | verb | Ich fahre mit dem Auto zur Arbeit.
+Fahrer | driver | der | noun | Bitte nicht mit dem Fahrer sprechen!
+Fahrkarte | ticket | die | noun | Hast du schon eine Fahrkarte?
+Fahrrad | bicycle | das | noun | Fährst du mit dem Fahrrad oder mit dem Auto?
+falsch | wrong / false | | adjective | Das ist falsch.
+Familie | family | die | noun | Meine Familie lebt in Spanien.
+Familienname | surname / last name | der | noun | Meine Familiennamen sind García González.
+Familienstand | marital status | der | noun | Bei „Familienstand“ musst du „ledig“ ankreuzen.
+Farbe | color | die | noun | Die Farbe gefällt mir gut.
+Fax | fax | das | noun | Schicken Sie uns einfach ein Fax!
+Feiertag | holiday | der | noun | Am Montag ist Feiertag.
+feiern | to celebrate | | verb | Wir feiern heute meinen Geburtstag.
+fehlen | to be missing / to lack | | verb | Herr Müller ist nicht da, er fehlt schon seit drei Tagen.
+Fehler | mistake / error | der | noun | Diesen Fehler mache ich immer.
+fernsehen | to watch television | | verb | Wollen wir heute Abend mal fernsehen?
+fertig | finished / ready | | adjective | Bist du fertig?
+Feuer | fire / light | das | noun | Haben Sie Feuer?
+Fieber | fever | das | noun | Mein Mann hat noch immer Fieber.
+Film | movie / film | der | noun | Ich möchte gern diesen Film sehen.
+finden | to find | | verb | Wir müssen den Schlüssel finden.
+Firma | company / firm | die | noun | Er arbeitet jetzt bei einer anderen Firma.
+Fisch | fish | der | noun | Ich esse gern Fisch. Fleisch mag ich nicht.
+Flasche | bottle | die | noun | Eine Flasche Bier, bitte.
+Fleisch | meat | das | noun | Fleisch mag ich nicht.
+fliegen | to fly | | verb | Ich fliege nicht gern. Deshalb fahre ich mit dem Zug.
+abfliegen | to fly off / to depart | | verb | Wann fliegst du ab?
+Abflug | departure (flight) | der | noun | Der Abflug ist um 11.20 Uhr.
+Flughafen | airport | der | noun | Kannst du mich zum Flughafen bringen?
+Flugzeug | airplane | das | noun | Das Flugzeug aus Berlin kommt heute später an.
+Formular | form | das | noun | Sie müssen dieses Formular ausfüllen.
+Foto | photo | das | noun | Darf ich ein Foto machen?
+fragen | to ask | | verb | Er möchte Sie etwas fragen. Wann kommen Sie?
+Frage | question | die | noun | Ich habe eine Frage.
+Frau | woman / Mrs. / wife | die | noun | Hier arbeiten mehr Frauen als Männer.
+frei | free / vacant | | adjective | Ist der Platz noch frei?
+Freizeit | free time / leisure | die | noun | In meiner Freizeit spiele ich oft Fußball.
+fremd | foreign / strange / new | | adjective | Das weiß ich nicht; ich bin fremd hier.
+freuen | to be glad / to look forward to | | verb | Ich freue mich auf den Urlaub.
+Freund | friend | der | noun | Das ist ein Freund von mir.
+früher | earlier / in the past | | adverb | Früher waren wir oft zusammen im Kino.
+frühstücken | to eat breakfast | | verb | Am Sonntag frühstücke ich gern im Bett.
+Frühstück | breakfast | das | noun | Möchtest du ein Ei zum Frühstück?
+Führung | guided tour | die | noun | Die Führung durch das Haus beginnt in 3 Minuten.
+für | for | | preposition | Das ist der Schlüssel für die Haustür.
+Fuß | foot | der | noun | Der linke Fuß tut mir weh.
+Fußball | football / soccer | der | noun | Spielt ihr gerne Fußball?
+Garten | garden | der | noun | Wir haben leider keinen Garten.
+Gast | guest | der | noun | Am Wochenende haben wir mehrere Gäste.
+geben | to give | | verb | Kannst du mir bitte deinen Kugelschreiber geben?
+geboren | born | | adjective | Ich bin in Zagreb geboren.
+Geburtsjahr | year of birth | das | noun | Das Geburtsjahr Ihres Sohnes, bitte?
+Geburtsort | place of birth | das | noun | Bitte schreiben Sie Ihren Geburtsort auf das Formular.
+Geburtstag | birthday | der | noun | Herzlichen Glückwunsch zum Geburtstag!
+gefallen | to please / to like | | verb | Das gefällt mir.
+gegen | against / towards | | preposition | Ich bin gegen diese Lösung.
+gehen | to go / to walk / to work | | verb | Jetzt muss ich leider gehen.
+gehören | to belong to | | verb | Wem gehört das?
+Geld | money | das | noun | Hast du noch Geld?
+Gemüse | vegetables | das | noun | Gemüse brauchen wir auch noch.
+Gepäck | luggage / baggage | das | noun | Wollen Sie Ihr Gepäck mitnehmen?
+gerade | just / right now | | adverb | Da kommt er ja gerade.
+geradeaus | straight ahead | | adverb | Gehen Sie immer geradeaus!
+gerne | gladly / with pleasure | | adverb | Ich gehe gerne einkaufen.
+Geschäft | shop / store / business | das | noun | Die Geschäfte schließen um 18.30 Uhr.
+Geschenk | gift / present | das | noun | Danke für das schöne Geschenk.
+Geschwister | siblings | | noun | Ich habe leider keine Geschwister.
+Gespräch | conversation / talk | das | noun | Das Gespräch mit Frau Kunz ist um 14 Uhr.
+gestern | yesterday | | adverb | Gestern war ich krank.
+gestorben | dead / passed away | | adjective | Meine Frau ist gestern gestorben.
+Getränk | drink / beverage | das | noun | Mein Lieblingsgetränk ist Tomatensaft.
+Gewicht | weight | das | noun | Bei „Gewicht“ schreibst du: 62 Kilo.
+gewinnen | to win | | verb | Wer gewinnt das Spiel?
+Glas | glass | das | noun | Bitte noch ein Glas Wein!
+glauben | to believe / to think | | verb | Ich glaube, er kommt gleich.
+gleich | same / equal / immediately | | adjective | Das ist der gleiche Preis.
+Gleis | track / platform | das | noun | Der ICE nach Berlin hält heute an Gleis 12.
+Glück | luck / happiness | das | noun | Viel Glück!
+glücklich | happy / lucky | | adjective | Meine Kinder sind glücklich verheiratet.
+Glückwunsch | congratulation | der | noun | Herzlichen Glückwunsch zum Geburtstag.
+Grad | degree (temperature) | | noun | Heute haben wir dreißig Grad.
+gratulieren | to congratulate | | verb | Ich gratuliere dir!
+grillen | to barbecue / to grill | | verb | Heute grillen wir im Garten.
+groß | big / tall / large | | adjective | Frankfurt ist eine große Stadt.
+Größe | size | die | noun | Haben Sie das auch in Größe 40?
+Großeltern | grandparents | | noun | Meine Großeltern leben in Japan.
+Großmutter | grandmother | die | noun | Meine Großmutter heißt Eva.
+Großvater | grandfather | der | noun | Mein Großvater ist schon 80.
+Gruppe | group | die | noun | Die erste Gruppe beginnt um 16 Uhr.
+Gruß | greeting | der | noun | Viele Grüße an Ihre Frau.
+gültig | valid | | adjective | Der Pass ist nicht mehr gültig.
+günstig | cheap / favorable / affordable | | adjective | Dort gibt es günstige Angebote.
+gut | good / well | | adjective | Das finde ich gut.
+Haar | hair | das | noun | Sie hat lange Haare.
+haben | to have | | verb | Ich habe ein neues Auto.
+Hähnchen | chicken | das | noun | Ein Hähnchen mit Pommes bitte!
+Halbpension | half board | die | noun | Möchten Sie Vollpension oder Halbpension?
+Halle | hall / lobby | die | noun | Wir treffen uns in Halle B.
+hallo | hello | | conjunction | Hallo Inge! Wie geht’s?
+halten | to stop | | verb | Dieser Zug hält nicht in Rüdesheim.
+Haltestelle | stop / station | die | noun | An der nächsten Haltestelle müssen Sie aussteigen.
+Hand | hand | die | noun | Er gibt mir die Hand.
+Handy | cell phone / mobile | das | noun | In der Schule bitte die Handys ausmachen!
+Haus | house | das | noun | In welchem Haus wohnst du?
+Hausaufgabe | homework | die | noun | Kannst du mir bei den Hausaufgaben helfen?
+Hausfrau | housewife | die | noun | Die Hausfrau wäscht, kocht und kauft ein.
+Hausmann | househusband | der | noun | Der Hausmann wäscht, kocht und kauft ein.
+Heimat | homeland / home country | die | noun | Ich komme aus der Schweiz. Das ist meine Heimat.
+heiraten | to marry | | verb | Meine Schwester heiratet einen Japaner.
+heißen | to be called / to mean | | verb | Ich heiße Charlotte Meier.
+helfen | to help | | verb | Können Sie mir helfen, bitte?
+hell | bright / light | | adjective | Im Sommer ist es bis 21 Uhr hell.
+Herd | stove / cooker | der | noun | In der neuen Küche fehlt noch der Herd.
+Herr | Mr. / gentleman | der | noun | Guten Tag, Herr Sommer!
+herzlich | cordial / heartfelt | | adjective | Herzlichen Glückwunsch!
+heute | today | | adverb | Heute ist ein schöner Tag.
+hier | here | | adverb | Hier wohne ich.
+Hilfe | help / assistance | die | noun | Brauchen Sie meine Hilfe?
+hinten | in the back / behind | | adverb | Die Tür zum Aussteigen ist hinten.
+Hobby | hobby | das | noun | Meine Hobbys sind Wandern und Schwimmen.
+hoch | high / tall | | adjective | Der Mount Everest ist 8.880 Meter hoch.
+Hochzeit | wedding | die | noun | Zur dieser Hochzeit kommen mehr als fünfzig Gäste.
+holen | to fetch / to get | | verb | Ich hole zwei Flaschen Wasser aus der Küche.
+hören | to hear / to listen | | verb | Ich habe das Lied schon mal gehört.
+Hotel | hotel | das | noun | Im Urlaub sind wir in einem Hotel am Meer.
+Hund | dog | der | noun | Der Hund ist noch jung.
+Hunger | hunger | der | noun | Ich habe Hunger! Wann ist das Essen fertig?
+ich | I | | pronoun | Ich heiße Veronika.
+ihr | her / to her | | pronoun | Gib ihr bitte das Buch.
+ihm | him / to him (dative) | | pronoun | Gib ihm bitte das Buch.
+ihn | him (accusative) | | pronoun | Ruf ihn bitte an.
+immer | always | | adverb | Frau Bast kommt immer zu spät.
+in | in / into | | preposition | Ich wohne in Wiesbaden.
+Information | information | die | noun | Wenn Sie Fragen haben, gehen Sie zur Information.
+international | international | | adjective | Unser Deutschkurs ist international.
+Internet | internet | das | noun | Das findest du im Internet.
+ja | yes | | adverb | Sind Sie Herr Watanabe? – Ja.
+Jacke | jacket | die | noun | Zieh dir eine Jacke an. Es ist kalt.
+jede | each / every | | pronoun | Blumen kannst du in jedem Bahnhof kaufen.
+jetzt | now | | adverb | Jetzt machen wir eine Pause.
+Job | job | der | noun | Jenny hat einen neuen Job bei der Post.
+Jugendliche | teenager / youth | der | noun | Viele Jugendliche kaufen gern ein.
+jung | young | | adjective | Claudia ist 21. – Was? Noch so jung?
+Junge | boy | der | noun | Ich habe zwei Kinder. Einen Jungen und ein Mädchen.
+Kaffee | coffee | der | noun | Zum Frühstück trinke ich immer Kaffee.
+kaputt | broken / ruined | | adjective | Das Glas war teuer. Es geht sehr leicht kaputt.
+Karte | card / ticket / menu | die | noun | Bringen Sie mir die Karte, bitte.
+Kreditkarte | credit card | die | noun | Kann ich auch mit Karte bezahlen?
+Kartoffel | potato | die | noun | Für Pommes frites braucht man Kartoffeln.
+Kasse | cash register / checkout | die | noun | Zahlen Sie bitte an der Kasse.
+kaufen | to buy | | verb | Tim kauft sich ein neues Auto.
+kein | no / none / not any | | pronoun | Es gibt keine Eintrittskarten mehr.
+kennen | to know (a person/place) | | verb | Kennen Sie diese Frau? – Nein, leider nicht.
+kennenlernen | to get to know / to meet | | verb | Wir sind neu hier. Wir möchten Sie kennenlernen.
+Kind | child | das | noun | Wie viele Kinder haben Sie?
+Kindergarten | kindergarten | der | noun | Die kleine Laura geht schon in den Kindergarten.
+Kino | cinema / movie theater | das | noun | Wir sehen heute Abend im Kino einen schönen Film.
+Kiosk | kiosk / newsstand | der | noun | Am Kiosk bekommen Sie Getränke, Zigaretten und Zeitungen.
+klar | clear / of course | | adjective | Kommst du mit? – Klar!
+Klasse | class / grade | die | noun | In unserer Klasse sind fünfundzwanzig Schüler.
+Kleidung | clothing / clothes | die | noun | Wo finde ich Kleidung?
+klein | small / little | | adjective | Eltville ist eine kleine Stadt am Rhein.
+kochen | to cook | | verb | Herr Georgi kann gut kochen.
+Koffer | suitcase | der | noun | Ist das Ihr Koffer?
+Kollege | colleague | der | noun | Wie heißt die neue Kollegin?
+kommen | to come | | verb | Woher kommen Sie? – Aus Frankreich.
+können | to be able to / can | | verb | Ich kann Deutsch und Russisch.
+Konto | bank account | das | noun | Das Geld überweisen wir am ersten März auf Ihr Konto.
+Kopf | head | der | noun | Mein Kopf tut weh!
+kosten | to cost | | verb | Wie viel kostet das? – 10 Euro.
+krank | sick / ill | | adjective | Ich kann heute nicht zur Arbeit kommen, ich bin krank und liege im Bett.
+kriegen | to get / to receive | | verb | Ich kriege 15 Euro in der Stunde für meine Arbeit.
+Küche | kitchen | die | noun | Der neue Herd kommt in die Küche.
+Kuchen | cake | der | noun | Ich nehme ein Stück Kuchen.
+Kugelschreiber | ballpoint pen | der | noun | Hast du einen Kugelschreiber für mich?
+Kühlschrank | refrigerator | der | noun | Haben wir noch Milch? – Ja, im Kühlschrank.
+kulturell | cultural | | adjective | Ich bin kulturell interessiert. Ich gehe oft ins Museum.
+kümmern | to take care of / look after | | verb | Jede Mutter kümmert sich um ihre kleinen Kinder.
+Kunde | customer / client | der | noun | Einen Moment, bitte. Ich habe eine Kundin.
+Kurs | course / class | der | noun | Der Deutschkurs geht bis zum Sommer.
+kurz | short | | adjective | Ricardo hat kurzes Haar.
+lachen | to laugh | | verb | Die Kinder lachen viel.
+Laden | shop / store | der | noun | Im Buchladen können Sie Bücher kaufen.
+Land | country / land | das | noun | Italien ist ein schönes Land.
+lang | long | | adjective | Die Jeans ist zu lang.
+lange | for a long time | | adverb | Wie lange fährt der Zug von Hamburg nach Berlin?
+langsam | slow / slowly | | adjective | Könnten Sie bitte etwas langsamer sprechen?
+laufen | to walk / to run | | verb | Ich möchte nicht Auto fahren, ich möchte laufen.
+laut | loud / loudly | | adjective | Nicht so laut! Das Baby schläft.
+leben | to live | | verb | Sie lebt bei ihrer Schwester.
+Leben | life | das | noun | Das Leben in diesem Land ist teuer.
+Lebensmittel | groceries / food | | noun | Lebensmittel bekommen Sie im Supermarkt.
+ledig | single / unmarried | | adjective | Sind Sie verheiratet? – Nein. Ledig.
+legen | to lay / to put down | | verb | Legen Sie das Buch auf den Tisch.
+Lehrer | teacher | der | noun | Unsere Deutschlehrerin heißt Frau Müller.
+leicht | light / easy | | adjective | Der Koffer ist leicht.
+leider | unfortunately | | adverb | Leider kann ich nicht kommen. Ich muss zum Arzt.
+leise | quiet / softly | | adjective | Seid leise. Die anderen schlafen schon.
+lernen | to learn / to study | | verb | Wie lange lernen Sie schon Deutsch?
+lesen | to read | | verb | Ich lese ein Buch von García Márquez.
+letzte | last | | pronoun | Morgen ist der letzte Kurstag.
+Leute | people | | noun | In der Disko sind viele Leute.
+Licht | light | das | noun | Wo macht man hier das Licht an?
+liebe | dear | | adjective | Liebe Susanne, lieber Hans,
+lieben | to love | | verb | Ich liebe dich!
+lieber | rather / prefer to | | adverb | Sie fährt lieber mit der Bahn.
+Lieblings- | favorite | | adjective | Mein Lieblingsfilm ist „Schwarze Augen“.
+Lied | song | das | noun | Welches ist dein Lieblingslied?
+liegen | to lie / to be located | | verb | Um neun Uhr liegt Judith noch im Bett.
+links | left / on the left | | adverb | Gehen Sie die nächste Straße links.
+Lkw | truck / lorry | der | noun | Dieser Lastkraftwagen ist sehr groß.
+Lokal | pub / restaurant / local | das | noun | In unserer Straße gibt es ein neues Lokal.
+Lösung | solution | die | noun | Die Lösung ist ganz einfach.
+lustig | funny / funny person | | adjective | Frau Mertens ist lustig. Sie lacht immer.
+machen | to do / to make | | verb | Was machst du heute Abend?
+Mädchen | girl | das | noun | Familie Kurz bekommt ein Baby. – Junge oder Mädchen?
+man | one / you / people | | pronoun | Hier darf man nicht rauchen.
+Mann | man / husband | der | noun | Mein Mann arbeitet bei der Polizei.
+männlich | male / masculine | | adjective | Kreuzen Sie bitte an: „weiblich“ oder „männlich“.
+Maschine | machine | die | noun | Die Waschmaschine ist günstig.
+Meer | sea / ocean | das | noun | Wir machen Urlaub am Meer.
+mehr | more | | adverb | Dieses Auto kostet 1.000 Euro mehr als das andere.
+mein | my | | pronoun | Mein Vater ist Arzt.
+meiste | most | | pronoun | Die meisten Norddeutschen sind sehr groß.
+Mensch | human / person | der | noun | Die Menschen sind hier anders als bei uns.
+mieten | to rent | | verb | Ich möchte ein Auto mieten.
+Miete | rent | die | noun | Die Miete für diese Wohnung ist 600 Euro.
+Milch | milk | die | noun | Die Milch steht im Kühlschrank.
+mit | with | | preposition | Trinken Sie den Kaffee mit Milch?
+mitbringen | to bring along | | verb | Ich gehe einkaufen. Soll ich dir was mitbringen?
+mitkommen | to come along | | verb | Ich gehe ins Kino. Kommst du mit?
+mitmachen | to participate / to join in | | verb | Warum macht ihr nicht mit?
+mitnehmen | to take along | | verb | Nehmen wir meine Schwester ins Kino mit?
+Mitte | middle / center | die | noun | Der Lehrer steht in der Mitte des Klassenzimmers.
+Möbel | furniture | | noun | Sind die Möbel neu?
+möchten | would like | | verb | Was möchten Sie trinken?
+mögen | to like | | verb | Magst du Kaffee oder Tee?
+möglich | possible | | adjective | Mit dieser Fahrkarte ist die Fahrt ab 9 Uhr möglich.
+Moment | moment | der | noun | Einen Moment bitte.
+morgen | tomorrow | | adverb | Morgen beginnt die Schule um 10 Uhr.
+müde | tired | | adjective | Ich bin müde. Ich gehe schlafen.
+Mund | mouth | der | noun | Öffnen Sie den Mund.
+müssen | must / to have to | | verb | Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten.
+Mutter | mother | die | noun | Frau Berghäuser ist die Mutter von Michaela.
+nach | to / after / according to | | preposition | Ich fliege nach München.
+nächste | next | | pronoun | Sehen wir uns nächste Woche?
+Name | name | der | noun | Mein Name ist Thomas Schmidt.
+nehmen | to take | | verb | Ich nehme den Bus.
+nein | no | | adverb | Fährst du auch nach München? – Nein, ich habe keine Zeit.
+neu | new | | adjective | Wir haben eine neue Wohnung.
+nicht | not | | adverb | Das stimmt nicht.
+nichts | nothing | | pronoun | Das macht nichts.
+nie | never | | adverb | Er kommt nie pünktlich.
+noch | still / yet / else | | adverb | Vielleicht kommt er noch.
+normal | normal | | adjective | Sein Gewicht ist normal.
+Nummer | number | die | noun | Sie haben Zimmer Nummer zwölf.
+nur | only / just | | adverb | Ich möchte nur ein Glas Wasser.
+oben | upstairs / above | | adverb | Ich wohne oben.
+Obst | fruit | das | noun | Im Sommer ist das Obst billig.
+oder | or | | conjunction | Wann können Sie kommen – heute oder morgen?
+öffnen | to open | | verb | Ich öffne die Tür.
+geöffnet | open / opened | | adjective | Der Laden ist samstags bis 16.00 Uhr geöffnet.
+oft | often | | adverb | Petra treffe ich oft.
+ohne | without | | preposition | Ohne Geld kann er nichts kaufen.
+Öl | oil | das | noun | Den Salat machen wir ohne Öl.
+Oma | grandma | die | noun | Meine Oma ist schon tot.
+Opa | grandpa | der | noun | Mein Opa heißt Hans.
+Ordnung | order / neatness | die | noun | Das ist in Ordnung.
+Ort | place / location | der | noun | Der Ort liegt am Meer.
+Papier | paper | das | noun | Hier sind Papier und Bleistift.
+Papiere | documents / papers | | noun | Haben Sie Ihre Papiere dabei?
+Partner | partner (male) | der | noun | Er ist mein Partner.
+Partnerin | partner (female) | die | noun | Sie ist meine Partnerin.
+Party | party | die | noun | Heute Abend machen wir eine Party.
+Pass | passport | der | noun | Im Hotel brauchst du deinen Pass.
+Pause | break / pause | die | noun | Von 12.00 bis 12.30 Uhr haben wir Mittagspause.
+Plan | plan / map | der | noun | Ich kaufe mir einen Stadtplan.
+Platz | place / seat / square | der | noun | Tut mir leid, der Platz ist besetzt.
+Polizei | police | die | noun | Holen Sie die Polizei!
+Pommes frites | french fries | | noun | Die Kinder essen Hähnchen mit Pommes frites.
+Post | post office / mail | die | noun | Wo ist die Post, bitte?
+Postleitzahl | postal code / zip code | die | noun | Wie ist Ihre Postleitzahl?
+Praktikum | internship / placement | das | noun | Ich mache ein Praktikum bei Siemens.
+Praxis | medical practice / clinic | die | noun | Die Praxis ist ab acht Uhr geöffnet.
+Preis | price | der | noun | Die Preise sind hoch.
+Problem | problem | das | noun | Mein Problem ist die Sprache.
+Prospekt | brochure / leaflet | der | noun | Bitte schicken Sie mir einen Prospekt von Ihrem Hotel.
+Prüfung | exam / test | die | noun | Die Prüfung ist am Montag um 8.00 Uhr.
+pünktlich | punctual / on time | | adjective | Der Bus fährt pünktlich um acht Uhr.
+Rad fahren | to ride a bike | | verb | Das Kind kann schon Rad fahren.
+rauchen | to smoke | | verb | Ich rauche nicht.
+Raum | room / space | der | noun | Der Unterricht ist in Raum 332.
+Rechnung | bill / invoice | die | noun | Die Rechnung, bitte.
+rechts | right / on the right | | adverb | Die Schillerstraße ist hier rechts.
+regnen | to rain | | verb | Heute regnet es.
+Regen | rain | der | noun | Bei diesem Regen gehe ich nicht raus.
+Reis | rice | der | noun | Ich esse gern Reis.
+reisen | to travel | | verb | Ich reise gern.
+Reise | trip / journey | die | noun | Wir machen eine Reise nach Österreich.
+Reisebüro | travel agency | das | noun | Mein Mann arbeitet im Reisebüro.
+Reiseführer | travel guide / guidebook | der | noun | Ich kaufe mir einen Reiseführer von Berlin.
+reparieren | to repair / to fix | | verb | Er hat das Fahrrad repariert.
+Reparatur | repair | die | noun | Die Reparatur ist sehr teuer.
+Restaurant | restaurant | das | noun | Wir essen heute in einem Restaurant.
+Rezeption | reception desk | die | noun | Fragen Sie bitte im Hotel an der Rezeption.
+richtig | correct / right | | adjective | Das ist richtig.
+riechen | to smell | | verb | Dieser Wein riecht gut.
+ruhig | quiet / calm | | adjective | Ich möchte ein ruhiges Zimmer.
+Saft | juice | der | noun | Möchtest du einen Apfelsaft?
+sagen | to say / to tell | | verb | Sag mal, wie geht es dir denn?
+Salat | salad | der | noun | Wie schmeckt dir der Salat?
+Salz | salt | das | noun | Herr Ober, kann ich bitte Salz haben?
+Satz | sentence | der | noun | Dieser Satz ist sehr einfach.
+S-Bahn | suburban train | die | noun | Ich nehme lieber die S-Bahn.
+Schalter | counter / ticket window | der | noun | Gehen Sie bitte zum Schalter drei!
+scheinen | to shine / to seem | | verb | Die Sonne scheint.
+schicken | to send | | verb | Bitte schicken Sie mir eine E-Mail.
+Schild | sign / signboard | das | noun | Haben Sie nicht das Schild gesehen?
+Schinken | ham | der | noun | Ich möchte gern ein Schinkenbrot.
+schlafen | to sleep | | verb | Ich schlafe meistens acht Stunden.
+schlecht | bad / unwell | | adjective | Wir haben schlechtes Wetter.
+schließen | to close / to lock | | verb | Bitte, schließen Sie die Tür.
+geschlossen | closed | | adjective | Die Bank hat am Samstag geschlossen.
+Schluss | end / conclusion | der | noun | Ich muss jetzt Schluss machen.
+Schlüssel | key | der | noun | Ich gebe Ihnen noch den Zimmerschlüssel.
+schmecken | to taste | | verb | Schmeckt das gut?
+schnell | fast / quickly | | adjective | Er fährt schnell.
+schon | already | | adverb | Ist das Essen schon fertig?
+schön | beautiful / nice | | adjective | Das ist sehr schön.
+Schrank | closet / cupboard | der | noun | Die Gläser stehen im Schrank.
+schreiben | to write | | verb | Er schreibt jeden Tag fünfzig E-Mails.
+Schuh | shoe | der | noun | Zieh die Schuhe aus!
+Schule | school | die | noun | Meine Tochter geht schon in die Schule.
+Schüler | student / pupil | der | noun | In meinem Kurs sind acht Schülerinnen und fünf Schüler.
+schwer | heavy / difficult | | adjective | Das ist eine schwere Arbeit.
+Schwester | sister | die | noun | Meine Schwester kommt am Dienstag.
+schwimmen | to swim | | verb | Ich schwimme jeden Tag einen Kilometer.
+Schwimmbad | swimming pool | das | noun | Kommst du mit ins Schwimmbad?
+See | lake | der | noun | Komm, wir fahren zum Starnberger See.
+sehen | to see / to look | | verb | Ich kann dich nicht sehen.
+Sehenswürdigkeit | tourist attraction / sight | die | noun | Welche Sehenswürdigkeiten gibt es in Frankfurt?
+sehr | very / much | | adverb | Das ist sehr schwer.
+sein | to be | | verb | Herr Müller ist in seinem Zimmer.
+an sein | to be on | | verb | Das Licht ist noch an.
+auf sein | to be open | | verb | Das Fenster ist noch auf.
+weg sein | to be gone / away | | verb | Herr Meier ist schon weg.
+zu sein | to be closed | | verb | Die Tür ist zu.
+seit | since / for | | preposition | Ich wohne seit drei Jahren in Köln.
+selbstständig | self-employed / independent | | adjective | Er ist selbstständig.
+sich | oneself / himself / herself / themselves | | pronoun | Sie müssen sich erst anmelden.
+sie | she / they | | pronoun | Wie heißt sie?
+Sie | you (formal) | | pronoun | Wie heißen Sie, bitte?
+sitzen | to sit | | verb | Wo sitzen Sie?
+so | so / like this / this way | | adverb | Fahren Sie bitte nicht so schnell!
+Sofa | sofa / couch | das | noun | Das Sofa ist neu.
+sofort | immediately / right away | | adverb | Bitte antworten Sie sofort.
+Sohn | son | der | noun | Das ist Hans, mein Sohn.
+sollen | should / ought to | | verb | Was soll ich mitbringen?
+Sonne | sun | die | noun | Die Sonne scheint.
+spät | late | | adjective | Es ist schon spät, ich muss gehen.
+später | later | | adverb | Das können wir später machen.
+Speisekarte | menu | die | noun | Bringen Sie mir die Speisekarte, bitte.
+spielen | to play | | verb | Die Kinder spielen draußen.
+Sport | sport / sports | der | noun | Ich mache viel Sport.
+Sprache | language | die | noun | Welche Sprachen sprichst du?
+sprechen | to speak / to talk | | verb | Kann ich mit Herrn Klein sprechen?
+Stadt | city / town | die | noun | Heidelberg ist eine alte Stadt.
+stehen | to stand / to be written | | verb | Der Bus steht schon an der Haltestelle.
+Stelle | position / job / place | die | noun | Ich habe eine neue Stelle.
+stellen | to place / to set | | verb | Stell die Tasche rechts in die Ecke!
+Stock | floor / story | der | noun | Unsere Wohnung liegt im ersten Stock.
+Straße | street | die | noun | In welcher Straße wohnen Sie?
+Straßenbahn | tram / streetcar | die | noun | Wo fährt die Straßenbahn ab?
+studieren | to study (at university) | | verb | Ich studiere in Mainz.
+Studium | studies / university education | das | noun | Das Studium beginnt im Oktober.
+Student | student (university) | der | noun | Ich bin Studentin.
+Stunde | hour | die | noun | Ich bin in einer Stunde zurück.
+suchen | to look for / to search | | verb | Suchst du etwas?
+tanzen | to dance | | verb | Tanzen Sie gern?
+Tasche | bag / pocket | die | noun | Ich habe die Schlüssel in der Tasche.
+Taxi | taxi | das | noun | Er fährt mit dem Taxi.
+Tee | tea | der | noun | Ich trinke morgens immer Tee.
+Teil | part / section | der | noun | Lies bitte auch den zweiten Teil.
+telefonieren | to make a phone call | | verb | Darf ich mal telefonieren?
+Telefon | telephone / phone | das | noun | Haben Sie Telefon?
+Termin | appointment | der | noun | Am besten machen wir sofort einen Termin.
+Test | test / quiz | der | noun | Der Test war einfach.
+teuer | expensive | | adjective | Das ist mir zu teuer.
+Text | text | der | noun | Lesen Sie bitte diesen Text.
+Thema | theme / topic | das | noun | Wir sprechen heute über das Thema „Essen und Trinken“.
+Ticket | ticket | das | noun | Wie viel kostet das Ticket?
+Tisch | table | der | noun | Die Fotos liegen auf dem Tisch.
+Tochter | daughter | die | noun | Das ist meine Tochter Katharina.
+Toilette | toilet / restroom | die | noun | Wo ist die Toilette, bitte?
+Tomate | tomato | die | noun | Die Tomate ist noch grün.
+tot | dead | | adjective | Sein Vater ist schon lange tot.
+treffen | to meet | | verb | Ich treffe in der Stadt einen Kollegen.
+Treppe | stairs / staircase | die | noun | Die Toilette? Die Treppe hoch und dann links.
+trinken | to drink | | verb | Möchtest du etwas trinken?
+tschüss | bye / goodbye | | conjunction | Junge Leute sagen meistens „tschüss!“.
+tun | to do | | verb | Ich habe noch etwas zu tun.
+über | over / across / about | | preposition | Gehen Sie hier über die Straße.
+übernachten | to stay overnight | | verb | Du kannst bei mir übernachten.
+überweisen | to transfer (money) | | verb | Sie können das Geld auch überweisen.
+Uhr | clock / o'clock / watch | die | noun | Es ist vier Uhr.
+um | at / around | | preposition | Er kommt um sieben Uhr.
+umziehen | to move (house) / to change clothes | | verb | Nächsten Monat ziehen wir um.
+und | and | | conjunction | Peter und Helmut sind meine Söhne.
+unser | our | | pronoun | Das ist unsere Lehrerin.
+unten | downstairs / below | | adverb | Er wohnt ganz unten im Haus.
+unter | under / below / among | | preposition | Unter uns wohnt eine Familie mit drei Kindern.
+Unterricht | class / lessons / instruction | der | noun | Wir haben Unterricht von 8.00 bis 12.00 Uhr.
+unterschreiben | to sign | | verb | Wo muss ich unterschreiben?
+Unterschrift | signature | die | noun | Hier fehlt noch Ihre Unterschrift.
+Urlaub | vacation / holiday | der | noun | Ich nehme im September Urlaub.
+Vater | father | der | noun | Mein Vater ist Arbeiter.
+verboten | forbidden / prohibited | | adjective | Hier ist Rauchen verboten.
+verdienen | to earn | | verb | Ich verdient 1.500 Euro im Monat.
+Verein | club / association | der | noun | Es gibt einen neuen Sportverein in der Stadt.
+verheiratet | married | | adjective | Ich bin verheiratet und habe drei Kinder.
+verkaufen | to sell | | verb | Er verkauft sein altes Auto.
+Verkäufer | salesman / shop assistant | der | noun | Meine Mutter ist Verkäuferin im Kaufhaus.
+vermieten | to rent out / to lease | | verb | Die Wohnung ist schon vermietet.
+Vermieter | landlord | der | noun | Unser Vermieter heißt Huber.
+verstehen | to understand | | verb | Können Sie mich verstehen?
+Verwandte | relative / relation | der | noun | Peter besucht seine Verwandten in Polen.
+viel | much / a lot | | pronoun | Hier regnet es viel.
+vielleicht | maybe / perhaps | | adverb | Ich komme vielleicht mit dem Bus.
+von | from / of | | preposition | Das Auto von Felix ist kaputt.
+vor | before / in front of / ago | | preposition | Das Auto steht vor der Tür.
+Vorname | first name / given name | der | noun | Ich heiße Müller, mein Vorname ist Eva.
+Vorsicht | caution / attention | die | noun | Vorsicht! Da kommt ein Auto.
+vorstellen | to introduce (oneself/someone) | | verb | Können Sie sich bitte vorstellen?
+Vorwahl | area code / dialling code | die | noun | Wie ist die Vorwahl von München?
+wandern | to hike / to walk | | verb | Wir wandern um den Chiemsee.
+wann | when | | adverb | Wann bist du fertig?
+warten | to wait | | verb | Können Sie ein paar Minuten warten?
+warum | why | | adverb | Warum kommt er nicht?
+was | what | | pronoun | Was ist das?
+was für ein | what kind of | | pronoun | Was für eine Farbe möchten Sie?
+waschen | to wash | | verb | Wo kann ich mir die Hände waschen?
+Wasser | water | das | noun | Ein Glas Wasser, bitte.
+weh tun | to hurt / to ache | | verb | Mein Bein tut weh.
+weiblich | female / feminine | | adjective | Kreuzen Sie bitte an: „weiblich“ oder „männlich“.
+Wein | wine | der | noun | Nein danke, ich möchte keinen Wein.
+weit | far | | adjective | Zum Bahnhof ist es nicht weit.
+weiter | further / on | | adverb | Der Bus fährt nicht weiter.
+welche | which | | pronoun | Welches Buch möchtest du?
+Welt | world | die | noun | Es gibt viele Probleme auf der Welt.
+wenig | little / few | | pronoun | Ich habe leider nur wenig verstanden.
+wer | who | | pronoun | Wer ist das?
+werden | to become / will | | verb | Mein Sohn will Arzt werden.
+Wetter | weather | das | noun | Wir hatten schlechtes Wetter.
+wichtig | important | | adjective | Dieses Formular ist sehr wichtig.
+wie | how / as / like | | adverb | Wie heißt du?
+wiederholen | to repeat | | verb | Können Sie das bitte wiederholen?
+Wiederhören | hearing again (on the phone) | das | noun | Also auf Wiederhören!
+Wiedersehen | seeing again / goodbye | das | noun | Auf Wiedersehen!
+wie viel | how much / how many | | pronoun | Wie viel Milch nehmen Sie?
+willkommen | welcome | | adjective | Herzlich willkommen!
+Wind | wind | der | noun | Der Wind kommt aus Osten.
+wir | we | | pronoun | Wir lernen Deutsch.
+wissen | to know (a fact) | | verb | Weißt du, wie er heißt?
+wo | where | | adverb | Wo ist die Post?
+woher | where from | | adverb | Woher kommen Sie?
+wohin | where to | | adverb | Wohin fährt dieser Bus?
+wohnen | to live / to reside | | verb | Ich wohne in München.
+Wohnung | apartment / flat | die | noun | Seit wann haben Sie diese Wohnung?
+wollen | to want | | verb | Wollen Sie einen Kaffee trinken?
+Wort | word | das | noun | Ich kenne das Wort nicht.
+wunderbar | wonderful / great | | adjective | Das Essen schmeckt wunderbar.
+zahlen | to pay | | verb | Zahlen, bitte!
+Zeit | time | die | noun | Ich habe heute keine Zeit.
+zurzeit | currently / at present | | adverb | Zurzeit habe ich sehr viel zu tun.
+Zeitung | newspaper | die | noun | Ich lese gern Zeitung.
+Zigarette | cigarette | die | noun | Wie teuer sind die Zigaretten?
+Zimmer | room | das | noun | Das Zimmer ist groß.
+Zoll | customs | der | noun | Wir müssen noch durch den Zoll.
+zu | to / at / too | | preposition | Der Bus fährt zum Bahnhof.
+zufrieden | satisfied / happy with | | adjective | Ich bin mit der Wohnung zufrieden.
+Zug | train | der | noun | Ich fahre gern mit dem Zug.
+zurück | back / return | | adverb | Wann kommst du zurück?
+zusammen | together / in total | | adverb | Sollen wir zusammen essen gehen?
+zwischen | between | | preposition | Heidelberg liegt zwischen Frankfurt und Stuttgart.
