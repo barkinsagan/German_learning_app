@@ -187,7 +187,7 @@ export function Flashcards() {
                       : "bg-surface-raised border-white/10 hover:border-white/20"
                   }`}
                 >
-                  <div className={`w-14 h-14 rounded-full overflow-hidden border-2 ${profile === name ? ring : "border-white/10"}`}>
+                  <div className={`w-20 h-20 rounded-full overflow-hidden border-2 ${profile === name ? ring : "border-white/10"}`}>
                     <img src={name === "Barkin" ? "/zuko.jpg" : "/toph.jpeg"} alt={char} className="w-full h-full object-cover" />
                   </div>
                   <div>

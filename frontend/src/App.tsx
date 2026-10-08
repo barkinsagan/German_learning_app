@@ -29,7 +29,7 @@ function SectionView({ section }: { section: Section }) {
 }
 
 export default function App() {
-  const [activeSection, setActiveSection] = useState<Section>("reading");
+  const [activeSection, setActiveSection] = useState<Section>("flashcards");
 
   return (
     <div className="flex h-screen overflow-hidden bg-background">
