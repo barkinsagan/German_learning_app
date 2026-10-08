@@ -5,7 +5,6 @@ import { LEVELS, Level } from "../exerciseConfig";
 import { useBookmarks } from "../hooks/useBookmarks";
 
 const COUNTS = [10, 20, 30] as const;
-const PROFILES: Profile[] = ["Barkin", "Bahar"];
 type Count = (typeof COUNTS)[number];
 type Source = "random" | "bookmarked";
 type Phase = "idle" | "loading" | "playing" | "results";
@@ -174,18 +173,27 @@ export function Flashcards() {
             <p className="text-xs font-semibold text-text-muted uppercase tracking-wider mb-3">
               Who's practicing?
             </p>
-            <div className="flex gap-2">
-              {PROFILES.map((p) => (
+            <div className="flex gap-3">
+              {([
+                { name: "Barkin", emoji: "🔥", char: "Zuko", bg: "bg-orange-500/10", border: "border-orange-500/30", text: "text-orange-400", ring: "border-orange-500/60" },
+                { name: "Bahar",  emoji: "🪨", char: "Toph",  bg: "bg-green-500/10",  border: "border-green-500/30",  text: "text-green-400",  ring: "border-green-500/60"  },
+              ] as const).map(({ name, emoji, char, bg, border, text, ring }) => (
                 <button
-                  key={p}
-                  onClick={() => setProfile(p)}
-                  className={`flex-1 px-4 py-2.5 rounded-lg text-sm font-medium border transition-all duration-150 ${
-                    profile === p
-                      ? "bg-accent-muted text-accent border-accent/30"
-                      : "bg-surface-raised text-text-secondary border-white/10 hover:border-accent/20 hover:text-text-primary"
+                  key={name}
+                  onClick={() => setProfile(name)}
+                  className={`flex-1 flex flex-col items-center gap-2 py-4 rounded-xl border-2 transition-all duration-150 ${
+                    profile === name
+                      ? `${bg} ${ring}`
+                      : "bg-surface-raised border-white/10 hover:border-white/20"
                   }`}
                 >
-                  {p}
+                  <div className={`w-14 h-14 rounded-full flex items-center justify-center text-3xl border-2 ${profile === name ? `${bg} ${border}` : "bg-surface border-white/10"}`}>
+                    {emoji}
+                  </div>
+                  <div>
+                    <p className={`font-semibold text-sm ${profile === name ? text : "text-text-primary"}`}>{name}</p>
+                    <p className="text-xs text-text-muted">{char}</p>
+                  </div>
                 </button>
               ))}
             </div>
