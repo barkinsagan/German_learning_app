@@ -1,0 +1,115 @@
+{
+  "lessonId": "l01",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Wie antwortet man auf „Woher kommst du?\"",
+      "options": [
+        "Ich wohne in Berlin.",
+        "Ich komme aus Deutschland.",
+        "Ich heiße Anna."
+      ],
+      "correctAnswer": 1,
+      "explanation": "„Woher\" fragt nach der Herkunft, also dem Land. Die Antwort beginnt mit „Ich komme aus …\""
+    },
+    {
+      "id": 2,
+      "question": "Welche Form ist richtig? „Du ___ aus Spanien.\"",
+      "options": [
+        "komme",
+        "kommt",
+        "kommst"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Für „du\" hängt man die Endung -st an den Verbstamm: komm + st = kommst."
+    },
+    {
+      "id": 3,
+      "question": "Welche Form von „sein\" passt? „Er ___ Lehrer.\"",
+      "options": [
+        "bin",
+        "bist",
+        "ist"
+      ],
+      "correctAnswer": 2,
+      "explanation": "„sein\" ist unregelmäßig: ich bin, du bist, er/sie/es ist."
+    },
+    {
+      "id": 4,
+      "question": "Welches W-Wort passt? „___ wohnst du?\" — „Ich wohne in Hamburg.\"",
+      "options": [
+        "Woher",
+        "Wo",
+        "Wie"
+      ],
+      "correctAnswer": 1,
+      "explanation": "„Wo\" fragt nach dem Ort (Aufenthalt). „Woher\" fragt nach der Herkunft. Die Antwort „in Hamburg\" zeigt den Wohnort."
+    },
+    {
+      "id": 5,
+      "question": "Welche Präposition ist richtig? „Ich komme ___ der Schweiz.\"",
+      "options": [
+        "aus",
+        "in",
+        "von"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Bei Ländern benutzt man „aus\" für die Herkunft. Die Schweiz hat den Artikel „die\", deshalb „aus der Schweiz\"."
+    },
+    {
+      "id": 6,
+      "question": "Welcher Buchstabe ist KEIN deutscher Umlaut?",
+      "options": [
+        "Ä",
+        "Ü",
+        "É"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Die deutschen Umlaute sind Ä, Ö und Ü. „É\" ist ein französischer Akzent."
+    },
+    {
+      "id": 7,
+      "question": "Welche Form ist richtig? „Sie (= she) ___ Deutsch.\"",
+      "options": [
+        "lerne",
+        "lernst",
+        "lernt"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Für er/sie/es im Singular hängt man -t an den Stamm: lern + t = lernt."
+    },
+    {
+      "id": 8,
+      "question": "Welche Frage ist KEINE W-Frage?",
+      "options": [
+        "Wie heißt du?",
+        "Kommst du aus Italien?",
+        "Wo wohnst du?"
+      ],
+      "correctAnswer": 1,
+      "explanation": "„Kommst du aus Italien?\" ist eine Ja/Nein-Frage (sie beginnt mit dem Verb). W-Fragen beginnen immer mit einem Fragewort (wie, was, wo, …)."
+    },
+    {
+      "id": 9,
+      "question": "Welches Land ist KEIN deutschsprachiges Land?",
+      "options": [
+        "Österreich",
+        "die Schweiz",
+        "Polen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Deutsch wird offiziell in Deutschland, Österreich, der Schweiz und Liechtenstein gesprochen. In Polen spricht man Polnisch."
+    },
+    {
+      "id": 10,
+      "question": "Welche Antwort passt zu „Wie heißt du?\"",
+      "options": [
+        "Ich komme aus Berlin.",
+        "Ich heiße Markus.",
+        "Ich wohne in Wien."
+      ],
+      "correctAnswer": 1,
+      "explanation": "„Wie heißt du?\" fragt nach dem Namen. Die typische Antwort: „Ich heiße …\" oder „Mein Name ist …\""
+    }
+  ]
+}

@@ -348,7 +348,7 @@ export function Flashcards() {
 
         {/* Flashcard */}
         <div className="flashcard-scene w-full" style={{ height: "260px" }}>
-          <div className={`flashcard-inner${flipped ? " is-flipped" : ""}`}>
+          <div key={currentIndex} className={`flashcard-inner${flipped ? " is-flipped" : ""}`}>
             {/* Front */}
             <div
               className="flashcard-face bg-surface rounded-xl border border-white/5 flex flex-col items-center justify-center gap-3 cursor-pointer select-none p-8"

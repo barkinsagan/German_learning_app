@@ -7,6 +7,7 @@ import { Listening } from "./components/Listening";
 import { Speaking } from "./components/Speaking";
 import { Vocabulary } from "./components/Vocabulary";
 import { Flashcards } from "./components/Flashcards";
+import { CurriculumView } from "./components/CurriculumView";
 
 function SectionView({ section }: { section: Section }) {
   switch (section) {
@@ -22,6 +23,8 @@ function SectionView({ section }: { section: Section }) {
       return <Vocabulary />;
     case "flashcards":
       return <Flashcards />;
+    case "curriculum":
+      return <CurriculumView />;
   }
 }
 

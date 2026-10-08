@@ -1,0 +1,115 @@
+{
+  "lessonId": "l05",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Welcher indefinite Artikel passt? „Das ist ___ Lampe.\"",
+      "options": [
+        "ein",
+        "eine",
+        "einen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "„Lampe\" ist feminin (die Lampe). Im Nominativ wird der feminine indefinite Artikel zu „eine\": Das ist eine Lampe."
+    },
+    {
+      "id": 2,
+      "question": "Welcher indefinite Artikel passt? „Ich sehe ___ Buch auf dem Tisch.\"",
+      "options": [
+        "ein",
+        "eine",
+        "einer"
+      ],
+      "correctAnswer": 0,
+      "explanation": "„Buch\" ist neutrum (das Buch). Maskulin und neutrum haben im Nominativ die gleiche Form: „ein\". Also: ein Buch."
+    },
+    {
+      "id": 3,
+      "question": "Negieren Sie: „Ich habe ein Auto.\"",
+      "options": [
+        "Ich habe nicht ein Auto.",
+        "Ich habe kein Auto.",
+        "Ich habe keine Auto."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ein Nomen mit „ein/eine\" wird mit „kein/keine\" verneint — nicht mit „nicht\". „Auto\" ist neutrum (das Auto), daher: kein Auto."
+    },
+    {
+      "id": 4,
+      "question": "Welche Negation passt? „Das Sofa ist ___ teuer.\"",
+      "options": [
+        "kein",
+        "keine",
+        "nicht"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hier wird das Adjektiv „teuer\" verneint, nicht ein Nomen. Adjektive nach „sein\" werden immer mit „nicht\" verneint: Das Sofa ist nicht teuer."
+    },
+    {
+      "id": 5,
+      "question": "Wie sagt man auf Deutsch „I have no time\"? („Zeit\" ist feminin.)",
+      "options": [
+        "Ich habe nicht Zeit.",
+        "Ich habe kein Zeit.",
+        "Ich habe keine Zeit."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Im positiven Satz („Ich habe Zeit.\") gibt es keinen Artikel — das Nomen muss trotzdem mit „kein\" verneint werden. „Zeit\" ist feminin, also „keine\"."
+    },
+    {
+      "id": 6,
+      "question": "Wie sagt man auf Deutsch „The bag is made of leather\"?",
+      "options": [
+        "Die Tasche ist von Leder.",
+        "Die Tasche ist aus Leder.",
+        "Die Tasche ist aus dem Leder."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Das Material wird mit der Präposition „aus\" + Material OHNE Artikel angegeben: aus Leder, aus Holz, aus Glas. „Von\" ist hier falsch."
+    },
+    {
+      "id": 7,
+      "question": "Welcher Artikel passt im Plural? „Hier sind ___ Stühle.\" (positiver Satz)",
+      "options": [
+        "eine",
+        "—  (kein Artikel)",
+        "einen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Der indefinite Artikel hat KEINEN Plural. Im Plural sagt man das Nomen einfach ohne Artikel: Hier sind Stühle."
+    },
+    {
+      "id": 8,
+      "question": "Negieren Sie: „Ich habe Geschwister.\" („Geschwister\" ist Plural.)",
+      "options": [
+        "Ich habe nicht Geschwister.",
+        "Ich habe kein Geschwister.",
+        "Ich habe keine Geschwister."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Im Plural verneint man Nomen mit „keine\" — egal welches Genus die Einzahl hat. „Keine\" ist die einzige Pluralform des Negativartikels."
+    },
+    {
+      "id": 9,
+      "question": "Was bedeutet „dunkelblau\"?",
+      "options": [
+        "hellblau (light blue)",
+        "dunkelblau (dark blue)",
+        "blau-schwarz (blue-black)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mit „hell-\" und „dunkel-\" kann man fast jede Farbe modifizieren — als ein Wort geschrieben: hellblau = light blue, dunkelblau = dark blue."
+    },
+    {
+      "id": 10,
+      "question": "Welcher Satz ist richtig? Es geht um einen bekannten Tisch, den beide Personen sehen.",
+      "options": [
+        "Ein Tisch ist aus Holz.",
+        "Der Tisch ist aus Holz.",
+        "Kein Tisch ist aus Holz."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Wenn ein Ding schon bekannt ist (beide sehen ihn), benutzt man den definiten Artikel „der/das/die\". Der indefinite Artikel „ein\" steht nur, wenn etwas zum ersten Mal erwähnt wird."
+    }
+  ]
+}

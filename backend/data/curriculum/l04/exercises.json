@@ -1,0 +1,115 @@
+{
+  "lessonId": "l04",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Welcher Artikel passt? „___ Lampe ist sehr schön.\"",
+      "options": [
+        "Der",
+        "Das",
+        "Die"
+      ],
+      "correctAnswer": 2,
+      "explanation": "„Lampe\" ist feminin (die Lampe). Nomen auf -e sind oft feminin. Im Nominativ: die Lampe."
+    },
+    {
+      "id": 2,
+      "question": "Wie schreibt man die Zahl 247 in Worten?",
+      "options": [
+        "zweihundertsiebenundvierzig",
+        "zweihundertvierzigsieben",
+        "siebenundvierzighundertzwei"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Hunderter zuerst, dann Einer + und + Zehner — alles in einem Wort: zweihundert + sieben + und + vierzig = zweihundertsiebenundvierzig."
+    },
+    {
+      "id": 3,
+      "question": "Welches Pronomen ersetzt „der Tisch\"?",
+      "options": [
+        "er",
+        "es",
+        "sie"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Maskuline Nomen (der) werden durch „er\" ersetzt: Der Tisch ist neu. → Er ist neu."
+    },
+    {
+      "id": 4,
+      "question": "Welcher Artikel passt? „___ Mädchen heißt Anna.\"",
+      "options": [
+        "Der",
+        "Das",
+        "Die"
+      ],
+      "correctAnswer": 1,
+      "explanation": "„Mädchen\" ist NEUTRUM (das Mädchen), weil die Endung -chen immer neutrum macht — auch wenn es um eine Person geht."
+    },
+    {
+      "id": 5,
+      "question": "Welches Pronomen ersetzt „das Sofa\"?",
+      "options": [
+        "er",
+        "es",
+        "sie"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Neutrale Nomen (das) werden durch „es\" ersetzt: Das Sofa ist neu. → Es ist neu."
+    },
+    {
+      "id": 6,
+      "question": "Wie schreibt man im Deutschen die Zahl tausend?",
+      "options": [
+        "1,000",
+        "1.000",
+        "1'000"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Im Deutschen ist der Punkt der Tausendertrennzeichen. „1,000\" wäre im Deutschen die Dezimalzahl eins Komma null null null."
+    },
+    {
+      "id": 7,
+      "question": "Welches Pronomen ersetzt „die Stühle\" (Plural)?",
+      "options": [
+        "er",
+        "es",
+        "sie"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Im Plural haben alle Nomen den Artikel „die\" und werden durch „sie\" ersetzt: Die Stühle sind alt. → Sie sind alt."
+    },
+    {
+      "id": 8,
+      "question": "Welcher Artikel passt? „___ Nachttisch steht im Schlafzimmer.\"",
+      "options": [
+        "Der",
+        "Das",
+        "Die"
+      ],
+      "correctAnswer": 0,
+      "explanation": "„Nachttisch\" ist ein zusammengesetztes Nomen aus „Nacht\" + „Tisch\". Das letzte Wort bestimmt den Artikel: der Tisch → der Nachttisch."
+    },
+    {
+      "id": 9,
+      "question": "Wie spricht man das Jahr 1995 aus?",
+      "options": [
+        "tausendneunhundertfünfundneunzig",
+        "neunzehnhundertfünfundneunzig",
+        "zweitausendfünfundneunzig"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Jahre vor 2000 sagt man wie zwei Zahlenpaare: 1995 = neunzehnhundert (19 × 100) + fünfundneunzig (95)."
+    },
+    {
+      "id": 10,
+      "question": "Welche Form ist richtig? „Das Sofa ist sehr ___.\"",
+      "options": [
+        "neue",
+        "neuer",
+        "neu"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nach dem Verb „sein\" steht das Adjektiv ohne Endung: Das Sofa ist neu. (Endungen gibt es erst, wenn das Adjektiv VOR dem Nomen steht — z. B. „ein neues Sofa\".)"
+    }
+  ]
+}

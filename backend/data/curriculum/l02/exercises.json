@@ -1,0 +1,115 @@
+{
+  "lessonId": "l02",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Wie heißt die weibliche Form von „der Lehrer\"?",
+      "options": [
+        "die Lehrer",
+        "die Lehrerin",
+        "die Lehrere"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Für die weibliche Form hängt man die Endung -in an die männliche Form: Lehrer + in = Lehrerin."
+    },
+    {
+      "id": 2,
+      "question": "Welche Form ist richtig? „Wir ___ aus Deutschland.\"",
+      "options": [
+        "komme",
+        "kommt",
+        "kommen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Für „wir\" hängt man die Endung -en an: komm + en = kommen. Dieselbe Endung gilt auch für „sie\" (Plural) und „Sie\" (formell)."
+    },
+    {
+      "id": 3,
+      "question": "Welche Form von „sein\" passt? „Ihr ___ Studenten.\"",
+      "options": [
+        "sind",
+        "seid",
+        "seit"
+      ],
+      "correctAnswer": 1,
+      "explanation": "„Ihr\" (you all, informell) braucht die Form „seid\" — mit d am Ende. „Seit\" mit t ist eine Präposition (since)."
+    },
+    {
+      "id": 4,
+      "question": "Wie schreibt man die Zahl 47 in Worten?",
+      "options": [
+        "vierundsiebzig",
+        "siebenundvierzig",
+        "vierzigsieben"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Im Deutschen sagt man die Einer zuerst, dann „und\", dann die Zehner — und schreibt alles in einem Wort: sieben + und + vierzig = siebenundvierzig."
+    },
+    {
+      "id": 5,
+      "question": "Welche Form ist richtig? „Sie ___ zwei Kinder.\" (= they)",
+      "options": [
+        "hat",
+        "haben",
+        "habt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Für „sie\" im Plural (they) ist die Form „haben\". „Hat\" wäre Singular (she), und „habt\" passt nur zu „ihr\"."
+    },
+    {
+      "id": 6,
+      "question": "Wo steht „nicht\"? „Ich bin ___ verheiratet ___.\"",
+      "options": [
+        "nicht verheiratet (am Anfang vor dem Adjektiv)",
+        "verheiratet nicht (am Ende des Satzes)",
+        "Beides ist möglich."
+      ],
+      "correctAnswer": 0,
+      "explanation": "„Nicht\" steht direkt vor dem Adjektiv, das es verneint: „Ich bin nicht verheiratet.\""
+    },
+    {
+      "id": 7,
+      "question": "Welche Antwort passt zu „Was bist du von Beruf?\"",
+      "options": [
+        "Ich bin ein Lehrer.",
+        "Ich bin Lehrer.",
+        "Ich habe Lehrer."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bei Berufsbezeichnungen benutzt man im Deutschen KEINEN Artikel: „Ich bin Lehrer\" (nicht „Ich bin ein Lehrer\")."
+    },
+    {
+      "id": 8,
+      "question": "Welcher Familienstand bedeutet „noch nie verheiratet\"?",
+      "options": [
+        "geschieden",
+        "verwitwet",
+        "ledig"
+      ],
+      "correctAnswer": 2,
+      "explanation": "„Ledig\" heißt single / noch nie verheiratet. „Geschieden\" = divorced, „verwitwet\" = widowed."
+    },
+    {
+      "id": 9,
+      "question": "Welche Form ist richtig? „Du ___ in Berlin.\" (Verb: arbeiten)",
+      "options": [
+        "arbeitst",
+        "arbeitest",
+        "arbeitet"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Weil der Stamm auf -t endet (arbeit-), schiebt man vor der Endung -st ein -e- ein: arbeit + e + st = arbeitest."
+    },
+    {
+      "id": 10,
+      "question": "Welche weibliche Form bekommt einen Umlaut?",
+      "options": [
+        "der Student → die Studentin",
+        "der Lehrer → die Lehrerin",
+        "der Arzt → die Ärztin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bei „Arzt → Ärztin\" bekommt der Stammvokal einen Umlaut (a → ä). Bei „Student\" und „Lehrer\" bleibt der Vokal unverändert."
+    }
+  ]
+}

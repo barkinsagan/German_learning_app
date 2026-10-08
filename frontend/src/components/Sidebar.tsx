@@ -7,6 +7,8 @@ interface NavItem {
   icon: string;
 }
 
+const CURRICULUM_ITEM: NavItem = { id: "curriculum", labelDe: "Kursplan", labelEn: "Curriculum", icon: "📚" };
+
 const NAV_ITEMS: NavItem[] = [
   { id: "reading", labelDe: "Lesen", labelEn: "Reading", icon: "📖" },
   { id: "writing", labelDe: "Schreiben", labelEn: "Writing", icon: "✍️" },
@@ -40,8 +42,35 @@ export function Sidebar({ activeSection, onSectionChange }: SidebarProps) {
       </div>
 
       {/* Navigation */}
-      <nav className="flex-1 px-3 py-4 space-y-1">
+      <nav className="flex-1 px-3 py-4 space-y-1 overflow-y-auto">
         <p className="px-3 mb-2 text-xs font-semibold text-text-muted uppercase tracking-wider">
+          Lernpfad
+        </p>
+        {[CURRICULUM_ITEM].map((item) => {
+          const isActive = activeSection === item.id;
+          return (
+            <button
+              key={item.id}
+              onClick={() => onSectionChange(item.id)}
+              className={`w-full flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium transition-all duration-200 text-left ${
+                isActive
+                  ? "bg-accent-muted text-accent border border-accent/20"
+                  : "text-text-secondary hover:text-text-primary hover:bg-surface-raised"
+              }`}
+            >
+              <span className="text-base">{item.icon}</span>
+              <div className="flex flex-col">
+                <span>{item.labelDe}</span>
+                <span className={`text-xs ${isActive ? "text-accent/70" : "text-text-muted"}`}>
+                  {item.labelEn}
+                </span>
+              </div>
+              {isActive && <div className="ml-auto w-1.5 h-1.5 rounded-full bg-accent" />}
+            </button>
+          );
+        })}
+
+        <p className="px-3 mt-4 mb-2 text-xs font-semibold text-text-muted uppercase tracking-wider">
           Skills
         </p>
         {NAV_ITEMS.map((item) => {

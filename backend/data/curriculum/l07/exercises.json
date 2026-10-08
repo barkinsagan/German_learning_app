@@ -1,0 +1,115 @@
+{
+  "lessonId": "l07",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Welche Form von „können\" passt? „Du ___ sehr gut Klavier spielen.\"",
+      "options": [
+        "kann",
+        "kannst",
+        "könnt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Für „du\" lautet die Form „kannst\": Du kannst sehr gut Klavier spielen. Im Singular ändert sich der Vokal: kö → ka."
+    },
+    {
+      "id": 2,
+      "question": "Welche Form von „können\" passt? „Anna und Peter ___ heute kommen.\"",
+      "options": [
+        "kann",
+        "könnt",
+        "können"
+      ],
+      "correctAnswer": 2,
+      "explanation": "„Anna und Peter\" = 3. Person Plural (sie). Im Plural bleibt der Vokal: sie können. Also: Anna und Peter können heute kommen."
+    },
+    {
+      "id": 3,
+      "question": "Welcher Satz hat die richtige Wortstellung (Satzklammer)?",
+      "options": [
+        "Ich kann sprechen Deutsch.",
+        "Ich kann Deutsch sprechen.",
+        "Ich Deutsch kann sprechen."
+      ],
+      "correctAnswer": 1,
+      "explanation": "In der Satzklammer steht das Modalverb auf Position 2 (kann), der Infinitiv geht ans Satzende (sprechen). Dazwischen steht das Objekt: Ich kann Deutsch sprechen."
+    },
+    {
+      "id": 4,
+      "question": "Wie stellt man die Ja/Nein-Frage zu „Du kannst schwimmen.\"?",
+      "options": [
+        "Du kannst schwimmen?",
+        "Kannst du schwimmen?",
+        "Schwimmen kannst du?"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In Ja/Nein-Fragen wandert das Modalverb auf Position 1, der Infinitiv bleibt am Satzende: Kannst du schwimmen?"
+    },
+    {
+      "id": 5,
+      "question": "Wie negiert man „Ich kann heute kommen.\"?",
+      "options": [
+        "Ich nicht kann heute kommen.",
+        "Ich kann nicht heute kommen.",
+        "Ich kann heute nicht kommen."
+      ],
+      "correctAnswer": 2,
+      "explanation": "„Nicht\" steht im Modalverbsatz direkt vor dem Infinitiv: Ich kann heute nicht kommen. Die Zeitangabe „heute\" steht davor im Mittelfeld."
+    },
+    {
+      "id": 6,
+      "question": "Was bedeutet „gern\" im Satz „Ich spiele gern Fußball.\"?",
+      "options": [
+        "Ich muss Fußball spielen.",
+        "Ich spiele Fußball mit Vergnügen / es macht mir Spaß.",
+        "Ich kann sehr gut Fußball spielen."
+      ],
+      "correctAnswer": 1,
+      "explanation": "„Gern\" zeigt, dass man eine Aktivität mit Vergnügen macht / mag — es macht einem Spaß. Es sagt aber nichts über Können oder Pflicht aus."
+    },
+    {
+      "id": 7,
+      "question": "Welcher Satz drückt eine FÄHIGKEIT mit „können\" aus?",
+      "options": [
+        "Kann ich das Fenster öffnen?",
+        "Wir können heute ins Kino gehen.",
+        "Ich kann sehr gut kochen."
+      ],
+      "correctAnswer": 2,
+      "explanation": "„Ich kann sehr gut kochen\" beschreibt eine Fähigkeit (ability). Satz 1 fragt um Erlaubnis, Satz 2 nennt eine Möglichkeit."
+    },
+    {
+      "id": 8,
+      "question": "Welche Form von „können\" passt? „Ihr ___ am Wochenende wandern.\"",
+      "options": [
+        "kannst",
+        "könnt",
+        "können"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Für „ihr\" (2. Person Plural) lautet die Form „könnt\": Ihr könnt am Wochenende wandern."
+    },
+    {
+      "id": 9,
+      "question": "Welcher Satz ist grammatisch richtig?",
+      "options": [
+        "Sie kann nicht ein Klavier spielen.",
+        "Sie kann kein Klavier spielen.",
+        "Sie kann nicht Klavier spielen kein."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Beim Verneinen eines Nomens (Klavier) benutzt man „kein/keine\", nicht „nicht\". Der Infinitiv „spielen\" bleibt am Satzende: Sie kann kein Klavier spielen."
+    },
+    {
+      "id": 10,
+      "question": "Welche Form ist die Steigerung von „gern\"?",
+      "options": [
+        "gerner – am gernsten",
+        "lieber – am liebsten",
+        "mehr gern – am meisten gern"
+      ],
+      "correctAnswer": 1,
+      "explanation": "„Gern\" hat unregelmäßige Steigerung: gern → lieber → am liebsten. Beispiel: Ich trinke gern Kaffee, lieber Tee, am liebsten Wasser."
+    }
+  ]
+}

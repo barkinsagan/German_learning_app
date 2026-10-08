@@ -1,0 +1,115 @@
+{
+  "lessonId": "l06",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Welcher Artikel passt im Akkusativ? „Ich kaufe ___ Schreibtisch.\"",
+      "options": [
+        "ein",
+        "einen",
+        "eine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "„Schreibtisch\" ist maskulin (der Schreibtisch). Im Akkusativ bekommt der maskuline Artikel die Endung -n: ein → einen. Also: Ich kaufe einen Schreibtisch."
+    },
+    {
+      "id": 2,
+      "question": "Welcher Artikel passt im Akkusativ? „Sie braucht ___ Lampe.\"",
+      "options": [
+        "eine",
+        "einen",
+        "ein"
+      ],
+      "correctAnswer": 0,
+      "explanation": "„Lampe\" ist feminin (die Lampe). Im Akkusativ bleibt die feminine Form gleich wie im Nominativ: eine Lampe."
+    },
+    {
+      "id": 3,
+      "question": "Welcher Artikel passt? „Ich lese ___ Buch.\"",
+      "options": [
+        "den",
+        "einen",
+        "das"
+      ],
+      "correctAnswer": 2,
+      "explanation": "„Buch\" ist neutrum (das Buch). Im Akkusativ ist die neutrale Form identisch mit dem Nominativ: das Buch. „Lesen\" verlangt den Akkusativ, aber für Neutrum sieht man keinen Unterschied."
+    },
+    {
+      "id": 4,
+      "question": "Wie negiert man im Akkusativ? „Ich habe einen Drucker.\" →",
+      "options": [
+        "Ich habe nicht einen Drucker.",
+        "Ich habe kein Drucker.",
+        "Ich habe keinen Drucker."
+      ],
+      "correctAnswer": 2,
+      "explanation": "„Drucker\" ist maskulin und steht im Akkusativ (Objekt von „haben\"). Der Negativartikel folgt der Endung von „ein\": einen → keinen. Also: Ich habe keinen Drucker."
+    },
+    {
+      "id": 5,
+      "question": "Was ist der Plural von „die Maus\"?",
+      "options": [
+        "die Mauses",
+        "die Mausen",
+        "die Mäuse"
+      ],
+      "correctAnswer": 2,
+      "explanation": "„Die Maus\" wird im Plural zu „die Mäuse\" — mit Umlaut (a → ä) und Endung -e. Eine typische Plural-Form für viele kurze Nomen."
+    },
+    {
+      "id": 6,
+      "question": "Was ist der Plural von „der Computer\"?",
+      "options": [
+        "die Computers",
+        "die Computer",
+        "die Computere"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nomen, die auf -er, -el oder -en enden, haben oft keine Plural-Endung: der Computer → die Computer. Im Plural ist nur der Artikel anders (der → die)."
+    },
+    {
+      "id": 7,
+      "question": "Welcher Artikel ist im Plural immer richtig?",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Im Plural ist der bestimmte Artikel IMMER „die\" — egal ob das Nomen im Singular maskulin, neutrum oder feminin ist: die Tische, die Bücher, die Lampen."
+    },
+    {
+      "id": 8,
+      "question": "Welcher Satz ist grammatisch richtig?",
+      "options": [
+        "Ich sehe der Bildschirm.",
+        "Ich sehe den Bildschirm.",
+        "Ich sehe dem Bildschirm."
+      ],
+      "correctAnswer": 1,
+      "explanation": "„Bildschirm\" ist maskulin und steht hier als direktes Objekt von „sehen\" → Akkusativ. Im Akkusativ wird der → den. Also: Ich sehe den Bildschirm."
+    },
+    {
+      "id": 9,
+      "question": "Was ist der Plural von „das Buch\"?",
+      "options": [
+        "die Buchs",
+        "die Buchen",
+        "die Bücher"
+      ],
+      "correctAnswer": 2,
+      "explanation": "„Das Buch\" wird im Plural zu „die Bücher\" — mit Umlaut (u → ü) und Endung -er. Die Endung -er ist typisch für viele neutrale Nomen."
+    },
+    {
+      "id": 10,
+      "question": "Welcher Satz ist richtig? „Anna ___ einen Kaffee.\"",
+      "options": [
+        "möchten",
+        "möchte",
+        "möchtet"
+      ],
+      "correctAnswer": 1,
+      "explanation": "„Anna\" ist 3. Person Singular (sie), also „möchte\". Und „einen Kaffee\" ist korrekter Akkusativ — „Kaffee\" ist maskulin (der Kaffee → einen Kaffee). Vollständig: Anna möchte einen Kaffee."
+    }
+  ]
+}

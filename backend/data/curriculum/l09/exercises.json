@@ -1,0 +1,115 @@
+{
+  "lessonId": "l09",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Welche Form von „mögen\" passt? „Ich ___ Schokolade sehr.\"",
+      "options": [
+        "mag",
+        "magst",
+        "mögen"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Für „ich\" lautet die Form „mag\" (ohne Endung). Im Singular ändert sich der Vokal: mö → ma. „ich mag\" und „er/sie/es mag\" sind gleich."
+    },
+    {
+      "id": 2,
+      "question": "Im Restaurant: Welcher Satz ist die richtige Bestellung?",
+      "options": [
+        "Ich mag bitte einen Kaffee.",
+        "Ich möchte bitte einen Kaffee.",
+        "Ich gern bitte einen Kaffee."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Für eine höfliche Bestellung benutzt man IMMER „möchte\", nicht „mag\". „Ich mag einen Kaffee\" wäre eine seltsame Aussage über Vorlieben, keine Bestellung."
+    },
+    {
+      "id": 3,
+      "question": "Welcher Artikel passt zu „Apfelsaft\"?",
+      "options": [
+        "die",
+        "das",
+        "der"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bei Komposita bestimmt das LETZTE Nomen den Artikel. „der Apfel\" + „der Saft\" → „der Apfelsaft\" (von „der Saft\")."
+    },
+    {
+      "id": 4,
+      "question": "Welche Form von „möchte\" passt? „___ ihr ein Stück Kuchen?\"",
+      "options": [
+        "Möchte",
+        "Möchtet",
+        "Möchten"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Für „ihr\" (2. Person Plural) lautet die Form „möchtet\": Möchtet ihr ein Stück Kuchen?"
+    },
+    {
+      "id": 5,
+      "question": "Welcher Satz drückt eine dauerhafte VORLIEBE aus?",
+      "options": [
+        "Ich möchte jetzt einen Tee.",
+        "Ich mag Tee.",
+        "Ich nehme einen Tee, bitte."
+      ],
+      "correctAnswer": 1,
+      "explanation": "„Ich mag Tee\" beschreibt eine generelle, dauerhafte Vorliebe. „Ich möchte jetzt einen Tee\" und „Ich nehme einen Tee\" sind konkrete Wünsche / Bestellungen im Moment."
+    },
+    {
+      "id": 6,
+      "question": "Welcher Artikel passt zu „Tomatensuppe\"?",
+      "options": [
+        "der",
+        "das",
+        "die"
+      ],
+      "correctAnswer": 2,
+      "explanation": "„die Tomate\" + „die Suppe\" → „die Tomatensuppe\". Das letzte Nomen („die Suppe\") bestimmt den Artikel. Das -n in „Tomatensuppe\" ist nur ein Fugen-n."
+    },
+    {
+      "id": 7,
+      "question": "Welcher Satz hat die richtige Satzklammer mit „möchte\"?",
+      "options": [
+        "Ich möchte essen heute Pizza.",
+        "Ich möchte heute Pizza essen.",
+        "Ich heute Pizza möchte essen."
+      ],
+      "correctAnswer": 1,
+      "explanation": "„möchte\" funktioniert wie ein Modalverb (L7): konjugierte Form auf Position 2, Infinitiv „essen\" ans Satzende. Im Mittelfeld: heute Pizza."
+    },
+    {
+      "id": 8,
+      "question": "Welche Form von „essen\" passt? „Was ___ du zum Frühstück?\"",
+      "options": [
+        "esse",
+        "isst",
+        "essen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "„essen\" hat einen Vokalwechsel im Singular (e → i): ich esse, aber du ISST, er/sie/es ISST. Also: Was isst du zum Frühstück?"
+    },
+    {
+      "id": 9,
+      "question": "Welche Form von „mögen\" passt? „___ du Fisch?\"",
+      "options": [
+        "Mag",
+        "Magst",
+        "Mögt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Für „du\" lautet die Form „magst\": Magst du Fisch? Wie bei „können\" ändert sich im Singular der Vokal: mö → ma."
+    },
+    {
+      "id": 10,
+      "question": "Was bedeutet „der Orangensaft\" wörtlich?",
+      "options": [
+        "Saft aus Orangen — der Artikel kommt von „der Saft\"",
+        "Eine besondere Orange — der Artikel kommt von „die Orange\"",
+        "Ein Saft, der orange ist — Adjektiv + Nomen"
+      ],
+      "correctAnswer": 0,
+      "explanation": "„der Orangensaft\" = Saft aus Orangen. Bei Komposita Nomen + Nomen bestimmt IMMER das letzte Nomen (hier: „der Saft\") den Artikel und das Genus."
+    }
+  ]
+}

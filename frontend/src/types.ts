@@ -1,4 +1,4 @@
-export type Section = "reading" | "writing" | "listening" | "speaking" | "vocabulary" | "flashcards";
+export type Section = "reading" | "writing" | "listening" | "speaking" | "vocabulary" | "flashcards" | "curriculum";
 
 export interface Story {
   title: string;
@@ -66,4 +66,18 @@ export interface WritingFeedback {
   overallFeedback: string;
   grade: "A" | "B" | "C" | "D";
   strengths: string;
+}
+
+export type LessonStatus = "available" | "in_progress" | "completed";
+export type CurriculumProgress = Record<string, LessonStatus>;
+
+export interface LectureData {
+  content: string;
+  authored: boolean;
+  lang?: "de" | "en";
+}
+
+export interface LessonExercisesData {
+  lessonId: string;
+  exercises: Question[];
 }

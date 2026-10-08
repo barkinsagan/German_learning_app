@@ -1,0 +1,115 @@
+{
+  "lessonId": "l03",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Welche Form ist richtig? „Du ___ Deutsch.\" (Verb: sprechen)",
+      "options": [
+        "sprechst",
+        "sprichst",
+        "spricht"
+      ],
+      "correctAnswer": 1,
+      "explanation": "„Sprechen\" hat einen Vokalwechsel e → i im Singular. Für „du\" heißt es: du sprichst."
+    },
+    {
+      "id": 2,
+      "question": "Wie antwortet man richtig? „Bist du nicht müde?\" — „___, ich bin sehr müde!\"",
+      "options": [
+        "Ja",
+        "Nein",
+        "Doch"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bei einer negativen Frage („Bist du nicht …?\") benutzt man „doch\", wenn die Antwort positiv ist. „Ja\" funktioniert hier nicht."
+    },
+    {
+      "id": 3,
+      "question": "Welcher Possessivartikel passt? „___ Mutter heißt Anna.\"",
+      "options": [
+        "Mein",
+        "Meine",
+        "Meinen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "„Mutter\" ist feminin (die Mutter). Bei femininen Nomen im Nominativ endet „mein\" auf -e: meine Mutter."
+    },
+    {
+      "id": 4,
+      "question": "Welche Frage ist eine Ja/Nein-Frage?",
+      "options": [
+        "Woher kommst du?",
+        "Hast du Geschwister?",
+        "Wie heißt deine Schwester?"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ja/Nein-Fragen beginnen mit dem Verb (Position 1). „Hast du Geschwister?\" beginnt mit „hast\". Die anderen beginnen mit W-Wörtern."
+    },
+    {
+      "id": 5,
+      "question": "Welche Form ist richtig? „Er ___ ein Buch.\" (Verb: lesen)",
+      "options": [
+        "lest",
+        "list",
+        "liest"
+      ],
+      "correctAnswer": 2,
+      "explanation": "„Lesen\" hat einen Vokalwechsel e → ie. Im Singular: du liest, er/sie/es liest. Die Form „liest\" gilt für du UND er — weil der Stamm auf -s endet."
+    },
+    {
+      "id": 6,
+      "question": "Welches Wort ist KEIN Familienmitglied?",
+      "options": [
+        "der Bruder",
+        "die Tante",
+        "der Lehrer"
+      ],
+      "correctAnswer": 2,
+      "explanation": "„Der Lehrer\" ist ein Beruf, kein Familienmitglied. Bruder und Tante gehören zur Familie."
+    },
+    {
+      "id": 7,
+      "question": "Welcher Possessivartikel passt? „___ Eltern wohnen in Berlin.\"",
+      "options": [
+        "Mein",
+        "Meine",
+        "Meinen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "„Eltern\" ist Plural. Bei Plural-Nomen im Nominativ endet „mein\" auf -e: meine Eltern. (Genauso wie bei femininen Nomen.)"
+    },
+    {
+      "id": 8,
+      "question": "Welche Form ist richtig? „Sie (= she) ___ schnell.\" (Verb: fahren)",
+      "options": [
+        "fahrt",
+        "fährt",
+        "fahre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "„Fahren\" hat einen Vokalwechsel a → ä im Singular. Für er/sie/es: sie fährt. „Fahrt\" wäre die ihr-Form."
+    },
+    {
+      "id": 9,
+      "question": "Wie antwortet man auf „Hast du keine Kinder?\" wenn man ein Kind hat?",
+      "options": [
+        "Ja, ich habe ein Kind.",
+        "Doch, ich habe ein Kind.",
+        "Nein, ich habe ein Kind."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Die Frage ist negativ („keine Kinder\"). Wenn man trotzdem ein Kind hat, ist die Antwort positiv — also „doch\", nicht „ja\"."
+    },
+    {
+      "id": 10,
+      "question": "Welcher Satz hat die richtige Wortstellung für eine Ja/Nein-Frage?",
+      "options": [
+        "Du sprichst Englisch?",
+        "Sprichst du Englisch?",
+        "Wie sprichst du Englisch?"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In einer Ja/Nein-Frage steht das Verb auf Position 1, das Subjekt auf Position 2: „Sprichst du Englisch?\". Option 1 ist ein Aussagesatz, Option 3 eine W-Frage."
+    }
+  ]
+}

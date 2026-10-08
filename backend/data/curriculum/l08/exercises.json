@@ -1,0 +1,115 @@
+{
+  "lessonId": "l08",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Welche Präposition passt? „___ Montag habe ich Deutschkurs.\"",
+      "options": [
+        "Um",
+        "Am",
+        "In"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Für Wochentage benutzt man „am\" (= an dem): am Montag, am Dienstag … „Um\" steht nur bei Uhrzeiten."
+    },
+    {
+      "id": 2,
+      "question": "Welche Präposition passt? „Der Zug fährt ___ acht Uhr.\"",
+      "options": [
+        "am",
+        "um",
+        "in"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Für Uhrzeiten benutzt man IMMER „um\": um acht Uhr, um halb neun, um Viertel nach drei."
+    },
+    {
+      "id": 3,
+      "question": "Was bedeutet „halb neun\" auf Deutsch?",
+      "options": [
+        "9:30",
+        "8:30",
+        "9:00"
+      ],
+      "correctAnswer": 1,
+      "explanation": "„Halb neun\" bedeutet 8:30, nicht 9:30! Es heißt wörtlich „halbwegs zur neunten Stunde\" — also schon eine halbe Stunde VOR der vollen Stunde 9."
+    },
+    {
+      "id": 4,
+      "question": "Welcher Satz hat die richtige Wortstellung?",
+      "options": [
+        "Am Wochenende ich gehe ins Kino.",
+        "Am Wochenende gehe ich ins Kino.",
+        "Am Wochenende ins Kino ich gehe."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Das konjugierte Verb steht IMMER auf Position 2. „Am Wochenende\" ist Position 1, dann kommt direkt das Verb „gehe\", dann das Subjekt „ich\". Das ist Inversion."
+    },
+    {
+      "id": 5,
+      "question": "Wie heißt 14:45 informell?",
+      "options": [
+        "Viertel nach zwei",
+        "Viertel vor drei",
+        "halb drei"
+      ],
+      "correctAnswer": 1,
+      "explanation": "14:45 = 15 Minuten VOR drei = Viertel vor drei. „Viertel nach zwei\" wäre 14:15, „halb drei\" wäre 14:30."
+    },
+    {
+      "id": 6,
+      "question": "Welche Form bedeutet „in the mornings\" (regelmäßig)?",
+      "options": [
+        "der Morgen",
+        "am Morgen",
+        "morgens"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Das Adverb auf -s zeigt eine REGELMÄSSIGE Wiederholung: „morgens\" = jeden Morgen. „Am Morgen\" sagt nur EINEN bestimmten Morgen."
+    },
+    {
+      "id": 7,
+      "question": "Welcher Satz ist richtig?",
+      "options": [
+        "Um wie viel Uhr du kommst?",
+        "Um wie viel Uhr kommst du?",
+        "Um wie viel Uhr kommen du?"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In W-Fragen steht das Fragewort auf Position 1, das Verb auf Position 2, dann das Subjekt. „Um wie viel Uhr [P1] kommst [P2] du [Subjekt]?\" Konjugation: du kommst (nicht „kommen\")."
+    },
+    {
+      "id": 8,
+      "question": "Welche Präposition passt? „___ Nacht schlafe ich.\"",
+      "options": [
+        "Am",
+        "Um",
+        "In der"
+      ],
+      "correctAnswer": 2,
+      "explanation": "„Die Nacht\" ist die EINZIGE Tageszeit, die feminin ist — und sie nimmt „in der\" statt „am\": in der Nacht. Alle anderen Tageszeiten: am Morgen, am Abend usw."
+    },
+    {
+      "id": 9,
+      "question": "Welcher Satz ist die richtige Inversion von „Ich arbeite am Dienstag.\"?",
+      "options": [
+        "Am Dienstag ich arbeite.",
+        "Am Dienstag arbeite ich.",
+        "Arbeite am Dienstag ich."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Wenn ein anderes Element (hier: „Am Dienstag\") auf Position 1 steht, rutscht das Subjekt NACH dem Verb. Das Verb bleibt fest auf Position 2: Am Dienstag arbeite ich."
+    },
+    {
+      "id": 10,
+      "question": "Was ist die richtige Frage zu „Es ist halb sieben.\"?",
+      "options": [
+        "Wann ist es?",
+        "Wo ist es?",
+        "Wie spät ist es?"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Die typische Frage nach der Uhrzeit lautet „Wie spät ist es?\" oder „Wie viel Uhr ist es?\" — die Antwort gibt eine Uhrzeit. „Wann?\" fragt nach einem Zeitpunkt, aber nicht direkt nach der aktuellen Uhrzeit."
+    }
+  ]
+}
