@@ -190,10 +190,7 @@ export function Flashcards() {
                   <div className={`w-20 h-20 rounded-full overflow-hidden border-2 ${profile === name ? ring : "border-white/10"}`}>
                     <img src={name === "Barkin" ? "/zuko.jpg" : "/toph.jpeg"} alt={char} className="w-full h-full object-cover" />
                   </div>
-                  <div>
-                    <p className={`font-semibold text-sm ${profile === name ? text : "text-text-primary"}`}>{name}</p>
-                    <p className="text-xs text-text-muted">{char}</p>
-                  </div>
+                  <p className={`font-semibold text-sm ${profile === name ? text : "text-text-primary"}`}>{name}</p>
                 </button>
               ))}
             </div>
