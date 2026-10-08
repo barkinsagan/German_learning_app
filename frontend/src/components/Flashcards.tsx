@@ -177,7 +177,7 @@ export function Flashcards() {
               {([
                 { name: "Barkin", emoji: "🔥", char: "Zuko", bg: "bg-orange-500/10", border: "border-orange-500/30", text: "text-orange-400", ring: "border-orange-500/60" },
                 { name: "Bahar",  emoji: "🪨", char: "Toph",  bg: "bg-green-500/10",  border: "border-green-500/30",  text: "text-green-400",  ring: "border-green-500/60"  },
-              ] as const).map(({ name, emoji, char, bg, border, text, ring }) => (
+              ] as const).map(({ name, char, bg, text, ring }) => (
                 <button
                   key={name}
                   onClick={() => setProfile(name)}
@@ -187,8 +187,8 @@ export function Flashcards() {
                       : "bg-surface-raised border-white/10 hover:border-white/20"
                   }`}
                 >
-                  <div className={`w-14 h-14 rounded-full flex items-center justify-center text-3xl border-2 ${profile === name ? `${bg} ${border}` : "bg-surface border-white/10"}`}>
-                    {emoji}
+                  <div className={`w-14 h-14 rounded-full overflow-hidden border-2 ${profile === name ? ring : "border-white/10"}`}>
+                    <img src={name === "Barkin" ? "/zuko.jpg" : "/toph.jpeg"} alt={char} className="w-full h-full object-cover" />
                   </div>
                   <div>
                     <p className={`font-semibold text-sm ${profile === name ? text : "text-text-primary"}`}>{name}</p>
