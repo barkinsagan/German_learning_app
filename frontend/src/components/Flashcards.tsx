@@ -1,16 +1,18 @@
 import { useState, useEffect, useRef } from "react";
-import { FlashCard } from "../types";
+import { FlashCard, Profile } from "../types";
 import { API_BASE } from "../config";
 import { LEVELS, Level } from "../exerciseConfig";
 import { useBookmarks } from "../hooks/useBookmarks";
 
 const COUNTS = [10, 20, 30] as const;
+const PROFILES: Profile[] = ["Barkin", "Bahar"];
 type Count = (typeof COUNTS)[number];
 type Source = "random" | "bookmarked";
 type Phase = "idle" | "loading" | "playing" | "results";
 
 export function Flashcards() {
   const [phase, setPhase] = useState<Phase>("idle");
+  const [profile, setProfile] = useState<Profile>("Barkin");
   const [level, setLevel] = useState<Level>("A1");
   const [count, setCount] = useState<Count>(10);
   const [source, setSource] = useState<Source>("random");
@@ -24,6 +26,13 @@ export function Flashcards() {
   const handleResultRef = useRef<(r: "correct" | "again") => void>(() => {});
 
   function handleResult(result: "correct" | "again") {
+    const card = cards[currentIndex];
+    fetch(`${API_BASE}/api/vocabulary/familiarity`, {
+      method: "PATCH",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ wordId: card.id, profile, delta: result === "correct" ? 1 : -1 }),
+    }).catch(() => {});
+
     const newResults = [...results, result];
     if (currentIndex + 1 >= cards.length) {
       setResults(newResults);
@@ -72,10 +81,12 @@ export function Flashcards() {
       const shuffled = [...bookmarks]
         .sort(() => Math.random() - 0.5)
         .slice(0, count);
-      const deck: FlashCard[] = shuffled.map((b) => ({
+      const deck: FlashCard[] = shuffled.map((b, i) => ({
+        id: -(i + 1),
         german: b.german,
         english: b.english,
         partOfSpeech: b.partOfSpeech,
+        familiarity: 0,
       }));
       setCards(deck);
       setCurrentIndex(0);
@@ -88,23 +99,27 @@ export function Flashcards() {
     setPhase("loading");
     try {
       const res = await fetch(
-        `${API_BASE}/api/vocabulary/words?level=${level}&count=${count}`
+        `${API_BASE}/api/vocabulary/words?level=${level}&count=${count}&profile=${profile}`
       );
       const json = await res.json();
       if (!json.success) throw new Error(json.error ?? "Unknown error");
       const deck: FlashCard[] = json.data.map(
         (w: {
+          id: number;
           german: string;
           english: string;
           partOfSpeech: string;
           article?: string | null;
           exampleSentence?: string | null;
+          familiarity: number;
         }) => ({
+          id: w.id,
           german: w.german,
           english: w.english,
           partOfSpeech: w.partOfSpeech,
           article: w.article,
           exampleSentence: w.exampleSentence,
+          familiarity: w.familiarity,
         })
       );
       setCards(deck);
@@ -154,6 +169,30 @@ export function Flashcards() {
         </div>
 
         <div className="card space-y-5">
+          {/* Profile */}
+          <div>
+            <p className="text-xs font-semibold text-text-muted uppercase tracking-wider mb-3">
+              Who's practicing?
+            </p>
+            <div className="flex gap-2">
+              {PROFILES.map((p) => (
+                <button
+                  key={p}
+                  onClick={() => setProfile(p)}
+                  className={`flex-1 px-4 py-2.5 rounded-lg text-sm font-medium border transition-all duration-150 ${
+                    profile === p
+                      ? "bg-accent-muted text-accent border-accent/30"
+                      : "bg-surface-raised text-text-secondary border-white/10 hover:border-accent/20 hover:text-text-primary"
+                  }`}
+                >
+                  {p}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          <div className="border-t border-white/5" />
+
           {/* Source */}
           <div>
             <p className="text-xs font-semibold text-text-muted uppercase tracking-wider mb-3">
@@ -330,7 +369,7 @@ export function Flashcards() {
               Karteikarten — Flashcards
             </h1>
             <p className="text-text-secondary mt-0.5 text-sm">
-              Card {currentIndex + 1} / {cards.length}
+              {profile} · Card {currentIndex + 1} / {cards.length}
             </p>
           </div>
           <button className="btn-ghost text-xs py-1.5" onClick={reset}>
@@ -365,9 +404,14 @@ export function Flashcards() {
               <span className="badge bg-surface-raised text-text-muted border border-white/10 text-xs capitalize">
                 {card.partOfSpeech}
               </span>
-              <p className="text-xs text-text-muted mt-2">
-                click or press Space to reveal
-              </p>
+              <div className="flex items-center gap-2 mt-2">
+                <span className="text-xs text-text-muted">
+                  {card.familiarity === 0
+                    ? "New"
+                    : `Familiarity: ${card.familiarity}`}
+                </span>
+                <span className="text-xs text-text-muted">· click or press Space to reveal</span>
+              </div>
             </div>
 
             {/* Back */}

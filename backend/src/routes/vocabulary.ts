@@ -22,19 +22,24 @@ Start by greeting the user and presenting the first practice word along with its
 }
 
 interface DbWord {
+  id: number;
   german: string;
   english: string;
   article: string | null;
   part_of_speech: string;
   example_sentence: string | null;
+  familiarity: number;
 }
 
-function getRandomWords(difficulty: string, count: number): Promise<DbWord[]> {
+function getRandomWords(difficulty: string, count: number, profile: string): Promise<DbWord[]> {
   return new Promise((resolve, reject) => {
     db.all(
-      `SELECT german, english, article, part_of_speech, example_sentence
-       FROM words WHERE difficulty = ? ORDER BY RANDOM() LIMIT ?`,
-      [difficulty, count],
+      `SELECT w.id, w.german, w.english, w.article, w.part_of_speech, w.example_sentence,
+              COALESCE(f.level, 0) AS familiarity
+       FROM words w
+       LEFT JOIN familiarity f ON f.word_id = w.id AND f.profile = ?
+       WHERE w.difficulty = ? ORDER BY RANDOM() LIMIT ?`,
+      [profile, difficulty, count],
       (err, rows) => {
         if (err) reject(err);
         else resolve(rows as DbWord[]);
@@ -58,7 +63,7 @@ interface ChatMessage {
   content: string;
 }
 
-// GET /api/vocabulary/words?level=A1&count=20
+// GET /api/vocabulary/words?level=A1&count=20&profile=Barkin
 router.get("/words", async (req: Request, res: Response) => {
   const level =
     typeof req.query.level === "string" ? req.query.level.toUpperCase() : "A1";
@@ -66,22 +71,53 @@ router.get("/words", async (req: Request, res: Response) => {
     typeof req.query.count === "string"
       ? Math.min(50, Math.max(1, parseInt(req.query.count, 10)))
       : 20;
+  const profile =
+    typeof req.query.profile === "string" ? req.query.profile : "default";
 
   try {
-    const words = await getRandomWords(level, count);
+    const words = await getRandomWords(level, count, profile);
     if (words.length === 0) {
       return res
         .status(404)
         .json({ success: false, error: `No words found for level: ${level}` });
     }
     const data = words.map((w) => ({
+      id: w.id,
       german: w.german,
       english: w.english,
       partOfSpeech: w.part_of_speech,
       article: w.article,
       exampleSentence: w.example_sentence,
+      familiarity: w.familiarity,
     }));
     return res.json({ success: true, data });
+  } catch (err) {
+    return res.status(500).json({ success: false, error: "Database error" });
+  }
+});
+
+// PATCH /api/vocabulary/familiarity
+router.patch("/familiarity", async (req: Request, res: Response) => {
+  const { wordId, profile, delta } = req.body as {
+    wordId: number;
+    profile: string;
+    delta: 1 | -1;
+  };
+
+  if (!wordId || !profile || (delta !== 1 && delta !== -1)) {
+    return res.status(400).json({ success: false, error: "Invalid request" });
+  }
+
+  try {
+    await new Promise<void>((resolve, reject) => {
+      db.run(
+        `INSERT INTO familiarity (word_id, profile, level) VALUES (?, ?, MAX(0, ?))
+         ON CONFLICT(word_id, profile) DO UPDATE SET level = MAX(0, level + ?)`,
+        [wordId, profile, delta === 1 ? 1 : 0, delta],
+        (err) => (err ? reject(err) : resolve())
+      );
+    });
+    return res.json({ success: true });
   } catch (err) {
     return res.status(500).json({ success: false, error: "Database error" });
   }
@@ -100,7 +136,7 @@ router.post("/chat", async (req: Request, res: Response) => {
     let vocabularyList: string = req.body.wordListSnapshot ?? "";
 
     if (!vocabularyList) {
-      const words = await getRandomWords(difficulty, count);
+      const words = await getRandomWords(difficulty, count, "default");
       if (words.length === 0) {
         return res
           .status(404)

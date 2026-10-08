@@ -39,12 +39,16 @@ export interface BookmarkedWord {
   partOfSpeech: string;
 }
 
+export type Profile = "Barkin" | "Bahar";
+
 export interface FlashCard {
+  id: number;
   german: string;
   english: string;
   partOfSpeech: string;
   article?: string | null;
   exampleSentence?: string | null;
+  familiarity: number;
 }
 
 export interface WritingPrompt {
